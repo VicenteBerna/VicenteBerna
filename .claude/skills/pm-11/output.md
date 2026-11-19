@@ -10,6 +10,21 @@ so sections A to F never repeat the same evidence. Section G must stand alone.
 Ten lines at most: the Champion (or NO CHAMPION QUALIFIED), its editorial line, why it wins, the
 main uncertainty, what is still pending, credits spent, and the approval status.
 
+Then the **ranking table for the creator**, in plain Portuguese, **one theme per row** (never themes
+as columns), ordered by position:
+
+| # | Tema | Do que trata | Ponto mais forte | Ponto mais fraco | Decisão |
+
+- **Tema:** the full working theme name, never an internal code like D1.
+- **Do que trata:** one plain sentence, with at most one number.
+- **Ponto mais forte / mais fraco:** a few words each, no jargon (say "interesse do público
+  crescendo", not "demand +60.7%").
+- **Decisão:** Campeão / Reserva / Atualizar vídeo existente / Em observação / Descartado — with
+  what happens next (e.g. the month it becomes relevant).
+
+Close with one sentence explaining why #1 beat the others. Every assessed theme appears, including
+the rejected ones.
+
 ## A. EXECUTION
 
 Execution date; mode (AUTO_DISCOVERY / USER_DIRECTED); scope; Source and Destination IDs; tools
@@ -45,7 +60,7 @@ For each opportunity:
 
 Then: line balance of the last 8 entries in `registro.md`, and any repetition found.
 
-**Comparison matrix (mandatory).** Before the individual opportunities, one table with every assessed
+**Comparison matrix (mandatory, technical).** Before the individual opportunities, one table with every assessed
 candidate as a column (PRODUCE, MONITOR and DISCARD) and, as rows, the eight comparison criteria,
 repetition / line balance and the decision. Use Strong / Medium / Weak with a few words of reason —
 a qualitative judgement, never an invented numeric score. The user reads this table to understand

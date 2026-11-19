@@ -20,6 +20,18 @@
 - **Créditos vidIQ:** 40 de 50 (8 consultas). Saldo: 2.865 → 2.825.
 - **Status:** aprovado pelo criador em 19/11/2026.
 
+### Ranking dos temas
+
+| # | Tema | Do que trata | Ponto mais forte | Ponto mais fraco | Decisão |
+|---|---|---|---|---|---|
+| 1 | **The AI Layoff Story Changed — Your Risk Didn't** | A IA foi o motivo nº 1 das demissões em maio (40%) e quase sumiu em outubro (3%) | Interesse do público crescendo e uma história com virada | Não podemos afirmar que a IA "era desculpa" | Campeão (aprovado) |
+| 2 | **Record Debt, Misplaced Alarm** | A dívida no cartão bateu recorde, mas o perigo está crescendo na casa própria | Dados oficiais muito sólidos | Interesse do público caindo e muitos vídeos alarmistas | Reserva — reavaliar com o dado do NY Fed de fevereiro |
+| 3 | **Low-Fire: Safe While You Stay, Stuck When You Move** | As empresas quase não demitem, mas também quase não contratam | Muito interesse do público | Repete o primeiro roteiro | Atualizar o roteiro v1.1 com estes dados |
+| 4 | **Fewer Americans Starting Businesses** | Os pedidos de abertura de empresas caíram 6% em outubro | Fala com quem quer empreender | Só um mês de dados, ainda não é tendência | Em observação — checar a tendência de 12 meses |
+
+O 1º venceu porque junta dados confiáveis, interesse crescente e uma boa história; o 2º tem ótimos
+dados mas pouco interesse agora; o 3º é forte mas repete o primeiro roteiro; o 4º precisa de mais dados.
+
 ---
 
 ## A. EXECUTION
