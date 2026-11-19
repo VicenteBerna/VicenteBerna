@@ -23,6 +23,9 @@ clara sobre o jogo e suas regras — trabalhar para enriquecer outros ou produzi
 A "prisão" do sistema pode ser compensadora, desde que a pessoa esteja consciente e não viva no
 automático. O canal busca clareza sobre os reais Momentos de Lucro da vida, que o dinheiro não compra.
 
+Faixa etária confirmada: **28 a 45 anos**. Quem busca emprego e quem é independente, na mesma faixa,
+só é atendido quando o tema também serve ao público principal.
+
 *(Definição detalhada do público: pendente, o criador vai enviar.)*
 
 ## Dois tipos de vídeo
@@ -67,4 +70,20 @@ dado frio em custo humano — tempo, família, liberdade.
 
 Cada motor será revisado com o criador e transformado em uma skill. Base: fontes oficiais e notícias
 atualizadas, com ranking de aprovação.
-*(Revisão dos motores: em andamento — Motor 11 v2.4 recebido para revisão.)*
+- **Motor 11 v2.5 — aprovado e transformado na skill `/pm-11`** (7 ajustes aprovados sobre a v2.4:
+  afirmações faladas × notas de fonte, lente humana ProfitMoments, linha editorial obrigatória,
+  registro de produção, vidIQ autorizado, duração estimada e não fixa, entrega por arquivo).
+- Motor 22 e Motor 33: pendentes de revisão.
+
+### Ferramentas e relatórios
+
+- **vidIQ autorizado** para pesquisa de demanda. Limite padrão: 50 créditos por execução; acima
+  disso, perguntar antes. Assinatura do vidIQ: o criador vai revisar após aprovar o processo.
+- **Relatórios dos motores:** em inglês, com resumo em português no topo.
+- Cada execução fica salva em `.claude/youtube/producao/<ID>/`, e o histórico em
+  `.claude/youtube/producao/registro.md`.
+
+### Objetivo
+
+Excelência nos resultados, com a maior atração e retenção possíveis — sempre dentro das regras
+inegociáveis.
