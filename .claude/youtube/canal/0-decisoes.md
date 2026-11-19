@@ -81,7 +81,11 @@ atualizadas, com ranking de aprovação.
 - **Motor 11 v2.5 — aprovado e transformado na skill `/pm-11`** (7 ajustes aprovados sobre a v2.4:
   afirmações faladas × notas de fonte, lente humana ProfitMoments, linha editorial obrigatória,
   registro de produção, vidIQ autorizado, duração estimada e não fixa, entrega por arquivo).
-- Motor 22 e Motor 33: pendentes de revisão.
+- **Motor 11 — padrão de execução:** 4 temas por execução, um por área de cobertura (trabalho,
+  finanças, IA, empreendedorismo), apresentados na tabela de ranking simples (um tema por linha).
+- **Primeira execução:** PM-M11-20261119-R01 — campeão aprovado: *The AI Layoff Story Changed — Your
+  Risk Didn't*.
+- Motor 22 e Motor 33: pendentes de revisão (Motor 22 em seguida).
 
 ### Ferramentas e relatórios
 

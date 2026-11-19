@@ -77,6 +77,9 @@ balance: report what the evidence shows.
 Cover news plus short, medium and long trends, and justify each horizon. Keep separate: publication
 date, data period, impact horizon. Events ≠ trends. Scenarios ≠ outcomes.
 
+**Candidate pool:** assess **4 candidates per run — one per coverage area** (the creator's standard).
+If an area has no viable candidate, say so instead of forcing one.
+
 Extract the strongest highlight per source/domain FIRST, then rank opportunities (not institutions).
 Keep every PRODUCE candidate unless evidence changes its qualification.
 
