@@ -45,6 +45,12 @@ For each opportunity:
 
 Then: line balance of the last 8 entries in `registro.md`, and any repetition found.
 
+**Comparison matrix (mandatory).** Before the individual opportunities, one table with every assessed
+candidate as a column (PRODUCE, MONITOR and DISCARD) and, as rows, the eight comparison criteria,
+repetition / line balance and the decision. Use Strong / Medium / Weak with a few words of reason —
+a qualitative judgement, never an invented numeric score. The user reads this table to understand
+why the Champion won and what was rejected.
+
 ## E. CHAMPION
 
 Carry the intelligence from D. Then: theme; subtitle that explains the theme; thesis; common belief

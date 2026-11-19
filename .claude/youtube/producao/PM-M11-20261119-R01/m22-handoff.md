@@ -2,7 +2,7 @@
 
 - **Project ID (destination):** PM-M22-20261119-R01
 - **Source Execution:** PM-M11-20261119-R01 (Motor 11 v2.5, 2026-11-19)
-- **Approval status:** PENDING USER APPROVAL — do not start Motor 22 until the creator approves.
+- **Approval status:** APPROVED by the creator on 2026-11-19 — ready for Motor 22.
 
 ## Objective
 

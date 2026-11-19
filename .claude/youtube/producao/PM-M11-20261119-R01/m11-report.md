@@ -1,6 +1,6 @@
 # PROFITMOMENTS — MOTOR 11 v2.5 — REPORT
 **Source Execution ID:** PM-M11-20261119-R01 · **Destination:** PM-M22-20261119-R01
-**Champion status:** PENDING USER APPROVAL
+**Champion status:** APPROVED by the creator on 2026-11-19
 
 ---
 
@@ -18,7 +18,7 @@
   está crescendo). **Em observação (MONITOR):** mercado "low-fire" (melhor usar para atualizar o
   roteiro v1.1) e queda na abertura de empresas.
 - **Créditos vidIQ:** 40 de 50 (8 consultas). Saldo: 2.865 → 2.825.
-- **Status:** aguardando a sua aprovação.
+- **Status:** aprovado pelo criador em 19/11/2026.
 
 ---
 
@@ -110,6 +110,24 @@ November figure would extend it.
 **Line balance (registro.md, last entries):** Corporate Awakening 1. All other lines 0.
 **Repetition check:** candidate 3 overlaps the existing script "A Stable Job Isn't the Same as
 Career Security" (in revision, not produced).
+
+### Comparison matrix
+
+Qualitative judgement on the eight comparison criteria (Strong / Medium / Weak) — not a measured
+score. Interpretive Strain: lower is better.
+
+| Criterion | D1 AI layoff narrative | D2 Record debt | D3 "Low-fire" market | D4 Business applications |
+|---|---|---|---|---|
+| Evidence Strength | Strong — 3 direct Challenger reports | Strong — NY Fed direct | Strong — but U-6 is a one-month move | Medium — one month, post-revision |
+| Human Consequence | Strong — career, identity, autopilot | Strong — the home as collateral (general mechanism only) | Strong — stuck when moving | Medium |
+| Journey Alignment (core W-2 viewer) | Strong — Employability, AI worry | Medium — Economic Capacity | Strong — Employability | Medium — serves independents more |
+| Audience Demand (vidIQ) | Strong and growing (+60.7%, 27x outlier) | Large but falling (−63.2%) | Strong (26x, 6.1x outliers) | Not measured |
+| Preventive Value | Strong | Medium | Strong | Medium |
+| Option-Building Potential | Strong | Medium | Strong | Strong |
+| Narrative Potential | Strong — rise-and-fall arc + contradiction | Medium — counter-intuitive but technical | Strong | Weak |
+| Interpretive Strain | Moderate-low | Moderate | Moderate | High |
+| Repetition / line balance | New line (AI & Power Shift) | New line (Strategic Finance) | Overlaps script v1.1 | New line |
+| **Decision** | **CHAMPION** | **PRODUCE #2** | **MONITOR** | **MONITOR** |
 
 ### D1 — The AI layoff narrative vs. your real exposure · **PRODUCE · CHAMPION**
 - **Development:** AI rose to and fell from the top of stated layoff reasons in 2026 (F01–F04, F08).
@@ -221,7 +239,7 @@ Career Security" (in revision, not produced).
 ## F. M22 HANDOFF SUMMARY
 
 Champion D1 with facts F01–F08 (and F05/F06 as context), demand D01–D03, the retention sequence, the
-spoken claims and source notes above, and the prohibited claims. **Approval: PENDING USER APPROVAL.**
+spoken claims and source notes above, and the prohibited claims. **Approval: APPROVED by the creator on 2026-11-19.**
 
 ## FINAL VALIDATION
 
