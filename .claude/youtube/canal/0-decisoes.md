@@ -59,10 +59,12 @@ dado frio em custo humano — tempo, família, liberdade.
   A estratégia de duração para monetização será analisada depois.
 - Shorts: a definir.
 
-## Processo de produção: 4 motores
+## Processo de produção: 3 motores
 
-1. **Tema** → 2. **Título** → 3. **Roteiro** → 4. **Vídeo**
+1. **Motor 11 — Editorial Opportunity & Champion Theme** (oportunidade e tema campeão)
+2. **Motor 22 — Packaging & Retention** (título, thumbnail, retenção e roteiro)
+3. **Motor 33 — Video Production** (produção do vídeo)
 
-Cada motor será revisado com o criador e transformado em uma skill (`/pm-tema`, `/pm-titulo`,
-`/pm-roteiro`, `/pm-video`). Base: fontes oficiais e notícias atualizadas, com ranking de aprovação.
-*(Revisão dos motores: em andamento.)*
+Cada motor será revisado com o criador e transformado em uma skill. Base: fontes oficiais e notícias
+atualizadas, com ranking de aprovação.
+*(Revisão dos motores: em andamento — Motor 11 v2.4 recebido para revisão.)*
