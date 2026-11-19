@@ -65,9 +65,11 @@ dado frio em custo humano — tempo, família, liberdade.
 
 ## Formato
 
-- Vídeos longos: o tamanho que o conteúdo pede para entregar um ótimo trabalho, considerando o custo
-  de produção (créditos do ElevenLabs e produção visual). Referência atual: cerca de 12 minutos.
-  A estratégia de duração para monetização será analisada depois.
+- **Vídeos longos — regra de monetização:** meta de **10 a 12 minutos** (1.500 a 1.800 palavras de
+  narração). **Mínimo absoluto: 1.400 palavras**, para ficar acima de 8 minutos (anúncios no meio do
+  vídeo) mesmo com a voz rápida e cortes na edição. Sempre com conteúdo real, nunca enchimento: se o
+  tema não sustentar 10 minutos, o Motor 22 avisa antes. O Motor 11 considera essa capacidade na
+  escolha do campeão.
 - Shorts: a definir.
 
 ## Processo de produção: 3 motores

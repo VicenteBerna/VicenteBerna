@@ -132,8 +132,13 @@ suspense, repetition or manufactured interruption. Rules in [writing.md](writing
 
 ## 8. Script
 
-- **Length:** start from the M11 estimated runtime; adjust to what the story honestly supports,
-  retention and production cost. Report the reasoning. No padding, no rushing.
+- **Length — monetization rule (creator's decision):** target **10 to 12 minutes, 1,500 to 1,800
+  words**. **Hard floor: 1,400 words**, so the video stays above 8 minutes (mid-roll ads) even if
+  the voice reads at ~170 words per minute and the edit trims pauses. Reach the target with
+  verified substance only — cases, mechanisms, practical tests — never padding. If the story
+  honestly cannot reach 1,500 words, **say so before writing** and let the creator choose: deepen
+  the theme, combine it with a related verified angle, or accept a shorter video.
+- Report the duration at 150, 160 and 170 words per minute.
 - Complete numbered paragraphs, contemporary American spoken English, ready for ElevenLabs
   ([writing.md](writing.md)). Neutral, intelligent, confident; cinematic and restrained; premium
   editorial; clear. No outrage, hype, fear or coach language.

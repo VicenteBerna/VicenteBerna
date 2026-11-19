@@ -189,8 +189,10 @@ it belongs in the source notes. When in doubt, ask: would the viewer be misled w
 M11 creates **no** final title, thumbnail, hook, script, scenes, visuals or production instructions.
 It writes a theme and a subtitle that explains the theme.
 
-Length is not decided here. Give an **estimated runtime** from the amount of story the Champion
-honestly supports; Motor 22 confirms it against retention and production cost.
+Length is not decided here, but it matters for the choice: the channel targets **10 to 12
+minutes** (monetization). Give an **estimated runtime** from the amount of verified story the
+Champion honestly supports, and treat a theme that cannot sustain about 10 minutes of real
+substance as weaker on Narrative Potential. Motor 22 confirms the length.
 
 ## 9. Saving the run
 

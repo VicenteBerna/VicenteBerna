@@ -2,7 +2,7 @@
 
 | Item | Version | Status | Date | Locked text |
 |---|---|---|---|---|
-| Title | v1 | PROPOSED | — | — |
-| Thumbnail Promise (+ text) | v1 | PROPOSED | — | — |
-| Viewer Promise | v1 | PROPOSED | — | — |
-| Narration (+ voice, description, Shorts seeds) | v1 | PROPOSED | — | — |
+| Title | v2 | PROPOSED | — | — |
+| Thumbnail Promise (+ text) | v2 | PROPOSED | — | — |
+| Viewer Promise | v2 | PROPOSED | — | — |
+| Narration (+ voice, description, Shorts seeds) | v2 | PROPOSED | — | — |
