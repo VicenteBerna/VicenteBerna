@@ -13,9 +13,19 @@ description: >-
 # PROFITMOMENTS — MOTOR 11
 ## Editorial Opportunity & Champion Theme — v2.5
 
-Qualify defensible opportunities, not news summaries. **Truth > attraction. Usefulness > novelty.**
-The goal is the strongest theme the channel can honestly make, because excellence in truth is what
-earns the attraction and the retention that last.
+## PRIMARY OBJECTIVE
+
+**Excellence in results and the greatest possible audience attraction and retention.** Every
+decision in this motor serves that objective.
+
+Truth is not the opposite of attraction — it is the condition for it. A theme that attracts through
+distortion loses the viewer at the first contradiction and costs the channel its credibility; a
+theme that is true but cannot hold attention fails the objective too. M11 looks for the theme that
+is **both**: defensible enough to survive scrutiny and strong enough to win the click and keep the
+viewer to the end.
+
+Qualify defensible opportunities, not news summaries. Truth is the gate; attraction and retention
+are the goal. Usefulness > novelty.
 
 ## 0. Read before every run
 
@@ -147,6 +157,12 @@ disqualifying issues; any reframe stays inside the user's territory.
 
 **Compare** on: Evidence Strength; Human Consequence; Journey Alignment; Audience Demand; Preventive
 Value; Option-Building Potential; Narrative Potential; Interpretive Strain (lower is better).
+
+**Choosing the Champion.** The gates decide what CAN be produced. Among the PRODUCE candidates,
+the Champion is the one with the **highest attraction and retention potential** — the strongest
+belief/reality gap, the clearest stake for the core viewer, the most complete retention sequence and
+measured demand — provided its Evidence Strength is solid and its Interpretive Strain is low. Say
+explicitly why the Champion will attract and hold the audience better than the runners-up.
 
 Return up to 3 PRODUCE and at most 1 Champion, only if justified. Explain why now and why it wins
 among the candidates actually assessed.

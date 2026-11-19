@@ -1,5 +1,13 @@
 # ProfitMoments — decisões do canal
 
+## OBJETIVO PRINCIPAL
+
+**Buscar a excelência nos resultados e garantir a maior atração e retenção possível de público.**
+
+Todo motor e toda skill do canal servem a este objetivo. A verdade e as regras inegociáveis são a
+condição para alcançá-lo — não um limite a ele: atração conquistada com distorção perde o público e
+a credibilidade.
+
 Registro das decisões confirmadas pelo criador. Toda skill do canal lê este arquivo junto com
 `1-manifesto.md`, `2-linhas-editoriais.md` e `3-nicho.md`. Atualize aqui quando algo mudar.
 
@@ -82,8 +90,3 @@ atualizadas, com ranking de aprovação.
 - **Relatórios dos motores:** em inglês, com resumo em português no topo.
 - Cada execução fica salva em `.claude/youtube/producao/<ID>/`, e o histórico em
   `.claude/youtube/producao/registro.md`.
-
-### Objetivo
-
-Excelência nos resultados, com a maior atração e retenção possíveis — sempre dentro das regras
-inegociáveis.
