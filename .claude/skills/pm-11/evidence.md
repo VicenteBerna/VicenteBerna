@@ -34,6 +34,23 @@ Keep discovery, evidence and demand separate.
 - **Never claim a verification that was not performed.** If a number was not found in the source
   that supposedly contains it, say exactly that.
 
+## Freshness — official AND current
+
+Every decisive claim must come from the **latest available release** of its source at the date of
+the run. Before using any figure:
+
+1. Check whether a newer release of the same series exists (monthly reports, quarterly reports,
+   revisions). If one exists, use it — never the older one.
+2. Older releases may be used **only as comparison points** in a trend, always with their date
+   spoken or shown ("in May…", "a year ago…").
+3. Never present an old fact as new. A claim is labelled with its data period, not just the
+   publication date.
+4. In section B, record for each fact: publication date, data period, whether it is the latest
+   release, and the **next scheduled release**. The Champion's handoff states the date after which
+   the facts must be re-checked (the earliest next release among its spoken claims).
+5. If the video will be produced after a next release date, Motor 22 must re-verify the spoken
+   claims against the newer release before the narration is recorded.
+
 ## Decisive claims need all of this
 
 Source, publication date, data/event period, URL, population, denominator, unit, geography,
