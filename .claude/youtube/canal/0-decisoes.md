@@ -85,7 +85,13 @@ atualizadas, com ranking de aprovação.
   finanças, IA, empreendedorismo), apresentados na tabela de ranking simples (um tema por linha).
 - **Primeira execução:** PM-M11-20261119-R01 — campeão aprovado: *The AI Layoff Story Changed — Your
   Risk Didn't*.
-- Motor 22 e Motor 33: pendentes de revisão (Motor 22 em seguida).
+- **Motor 22 v2.2 — aprovado e transformado na skill `/pm-22`** (8 ajustes aprovados sobre a v2.1:
+  padrão de gancho de 15 segundos, uso das afirmações faladas do M11, regra contra quedas de
+  audiência, narração pronta para o ElevenLabs com contagem de caracteres, duração flexível,
+  verificação dos títulos, proposta de voz, atualidade e arquivos). Decisões: o M22 escreve a
+  descrição do vídeo (com as notas de fonte), o texto da thumbnail (até 3 palavras) e 2 a 3
+  sementes de Shorts. Capítulos ficam com o M33. vidIQ no M22: até 25 créditos por execução.
+- Motor 33: pendente de revisão.
 
 ### Ferramentas e relatórios
 
