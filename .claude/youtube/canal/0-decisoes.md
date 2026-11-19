@@ -102,3 +102,18 @@ atualizadas, com ranking de aprovação.
 - **Relatórios dos motores:** em inglês, com resumo em português no topo.
 - Cada execução fica salva em `.claude/youtube/producao/<ID>/`, e o histórico em
   `.claude/youtube/producao/registro.md`.
+
+## Plataforma de produção: Arsenal Ferramentas Premium
+
+Informado pelo criador em 2026-11-19 (ainda não verificado em documentação ou teste):
+
+- **Custo zero e uso sem limites** para o criador.
+- **Gera também a voz** (narração).
+- **Licença permite uso comercial** em canal monetizado no YouTube.
+
+Consequências para a política de produção:
+- O Arsenal é a plataforma padrão do Motor 33 (rota com título e roteiro fornecidos).
+- O custo real a controlar passa a ser: caracteres do ElevenLabs (se a voz vier da conta própria),
+  créditos do vidIQ e o **tempo de produção** do criador.
+- Pendente: confirmar no Arsenal os módulos (cenas, voz, imagens, legendas, música, montagem),
+  as vozes disponíveis e se a voz é a mesma do ElevenLabs.
