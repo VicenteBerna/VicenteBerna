@@ -23,10 +23,10 @@ thumbnail promise and text, the hook, voice proposal and description — see `m2
 
 | Item para aprovar | Proposta | Status |
 |---|---|---|
-| Título | AI Was the #1 Reason for Layoffs. Then It Almost Vanished. | PROPOSTO |
-| Promessa da thumbnail (+ texto) | A virada de maio a outubro em números · texto: **40% → 3%** | PROPOSTO |
-| Promessa ao espectador | versão v2 (seção D) | PROPOSTO |
-| Narração | versão v2 (+ voz, descrição e Shorts) | PROPOSTO |
+| Título | AI Was the #1 Reason for Layoffs. Then It Almost Vanished. | APROVADO |
+| Promessa da thumbnail (+ texto) | A virada de maio a outubro em números · texto: **40% → 3%** | APROVADO |
+| Promessa ao espectador | versão v2 (seção D) | APROVADO |
+| Narração | versão v2 (+ voz, descrição e Shorts) | APROVADO |
 
 ## D. PACKAGE (Viewer Promise updated)
 
@@ -166,4 +166,4 @@ measured audio.
 | Prohibited claims (no pretext claim about any company) | PASS — Montefiore presented with both positions |
 | Proposed status, human stop | PASS |
 
-**TITLE + THUMBNAIL PROMISE + VIEWER PROMISE + NARRATION LOCK — PROPOSED**
+**TITLE + THUMBNAIL PROMISE + VIEWER PROMISE + NARRATION LOCK — APPROVED (2026-11-19)**
