@@ -1,0 +1,660 @@
+[
+ {
+  "id": "s01a-hook",
+  "type": "kinetic",
+  "dur": 6,
+  "lines": [
+   {
+    "text": "This spring, AI was the",
+    "cls": "kicker",
+    "at": 0
+   },
+   {
+    "text": "#1 reason",
+    "cls": "big gold",
+    "style": "font-size:230px;margin:18px 0;text-transform:uppercase",
+    "at": 0.4
+   },
+   {
+    "text": "American companies gave for cutting jobs",
+    "cls": "sub",
+    "at": 1.0
+   }
+  ]
+ },
+ {
+  "id": "s01b-hook",
+  "type": "kinetic",
+  "dur": 5,
+  "lines": [
+   {
+    "text": "By October",
+    "cls": "kicker",
+    "at": 0
+   },
+   {
+    "text": "almost disappeared",
+    "cls": "big red",
+    "style": "font-size:150px;margin-top:18px;text-transform:uppercase",
+    "at": 0.4
+   },
+   {
+    "text": "from their announcements",
+    "cls": "sub",
+    "at": 1.0
+   }
+  ]
+ },
+ {
+  "id": "s01c-hook",
+  "type": "kinetic",
+  "dur": 6,
+  "lines": [
+   {
+    "text": "The technology didn't change that fast.",
+    "cls": "mid",
+    "at": 0
+   },
+   {
+    "text": "The story did.",
+    "cls": "big gold",
+    "style": "font-size:170px;margin-top:30px",
+    "at": 1.4
+   }
+  ]
+ },
+ {
+  "id": "s02-limits",
+  "type": "rows",
+  "dur": 9,
+  "kicker": "Before we start",
+  "title": "What these numbers are — and aren't",
+  "rows": [
+   [
+    "Counts",
+    "Job cuts U.S. employers announced"
+   ],
+   [
+    "Reason",
+    "The one employers chose to state"
+   ],
+   [
+    "Not",
+    "A census of every layoff",
+    "red"
+   ],
+   [
+    "Not",
+    "A measure of jobs AI replaced",
+    "red"
+   ]
+  ],
+  "source": "Source: Challenger, Gray &amp; Christmas monthly Job Cuts Reports"
+ },
+ {
+  "id": "ch1",
+  "type": "chapter",
+  "dur": 4,
+  "n": "PART 1",
+  "title": "The Rise and the Fall"
+ },
+ {
+  "id": "s03-may",
+  "type": "number",
+  "dur": 7,
+  "kicker": "May 2026 · announced job cuts citing AI",
+  "value": 38579,
+  "sub": "<span class=\"gold\">40%</span> of every job cut announced that month — the most since tracking began in 2023",
+  "source": "Source: Challenger, Gray &amp; Christmas · May 2026 report (pub. Jun 4, 2026)"
+ },
+ {
+  "id": "s04-chart",
+  "type": "chart",
+  "dur": 10,
+  "draw": 7,
+  "kicker": "Share of announced U.S. job cuts citing AI · 2026",
+  "title": "The rise — and the fall",
+  "ymax": 40,
+  "ticks": [
+   0,
+   10,
+   20,
+   30,
+   40
+  ],
+  "unit": "%",
+  "points": [
+   [
+    1,
+    7,
+    "JAN"
+   ],
+   [
+    3,
+    25,
+    "MAR"
+   ],
+   [
+    4,
+    26,
+    "APR"
+   ],
+   [
+    5,
+    40,
+    "MAY",
+    {
+     "t": "40%"
+    }
+   ],
+   [
+    7,
+    33,
+    "JUL"
+   ],
+   [
+    10,
+    2.9,
+    "OCT",
+    {
+     "t": "&lt;3%",
+     "dx": -40,
+     "dy": 22,
+     "anchor": "end"
+    },
+    "#C8553D"
+   ]
+  ],
+  "source": "Source: Challenger, Gray &amp; Christmas (May, Jul, Oct 2026 reports) · Oct = 1,265 of 43,994 (our calculation) · dashed = months not shown"
+ },
+ {
+  "id": "s04-oct",
+  "type": "number",
+  "dur": 7,
+  "kicker": "October 2026 · announced job cuts citing AI",
+  "value": 1265,
+  "color": "red",
+  "sub": "Lowest month of the year — under 3% of all announced cuts",
+  "source": "Source: Challenger, Gray &amp; Christmas · October 2026 report (pub. Nov 5, 2026) · 1,265 of 43,994 (our calculation)"
+ },
+ {
+  "id": "s04-reason",
+  "type": "rows",
+  "dur": 8,
+  "kicker": "The new #1 reason",
+  "title": "Market &amp; economic conditions",
+  "rows": [
+   [
+    "October",
+    "16,407 cuts · 37% of the month"
+   ],
+   [
+    "2026 so far",
+    "130,531 — now ahead of AI",
+    "gold"
+   ]
+  ],
+  "source": "Source: Challenger, Gray &amp; Christmas · October 2026 report (pub. Nov 5, 2026)"
+ },
+ {
+  "id": "s04-quote",
+  "type": "quote",
+  "dur": 7,
+  "text": "The reasons employers give have shifted [[from technology to the economy]].",
+  "who": "Andy Challenger · Challenger, Gray &amp; Christmas · Nov 2026"
+ },
+ {
+  "id": "s05-question",
+  "type": "kinetic",
+  "dur": 6,
+  "lines": [
+   {
+    "text": "So what happened",
+    "cls": "mid",
+    "at": 0
+   },
+   {
+    "text": "between May and October?",
+    "cls": "big gold",
+    "style": "font-size:120px;margin-top:20px",
+    "at": 0.8
+   }
+  ]
+ },
+ {
+  "id": "ch2",
+  "type": "chapter",
+  "dur": 4,
+  "n": "PART 2",
+  "title": "The Label Is a Message"
+ },
+ {
+  "id": "s06-quote",
+  "type": "quote",
+  "dur": 9,
+  "text": "Naming AI in a layoff announcement can [[win over investors]] while pushing current and prospective employees away.",
+  "who": "Andy Challenger · Challenger, Gray &amp; Christmas · Aug 2026"
+ },
+ {
+  "id": "s07-visa",
+  "type": "rows",
+  "dur": 8,
+  "kicker": "Case 1 · Summer 2026",
+  "title": "Visa",
+  "rows": [
+   [
+    "Announced",
+    "A 7% workforce reduction"
+   ],
+   [
+    "Reason given",
+    "An efficiency push in which AI would reshape work"
+   ],
+   [
+    "Counted as",
+    "AI",
+    "gold"
+   ]
+  ],
+  "source": "Source: Challenger, Gray &amp; Christmas · July 2026 report (pub. Aug 6, 2026)"
+ },
+ {
+  "id": "s08-montefiore",
+  "type": "rows",
+  "dur": 10,
+  "kicker": "Case 2 · Summer 2026",
+  "title": "Montefiore · Bronx, New York",
+  "rows": [
+   [
+    "Cut",
+    "12 utilization-review nursing positions"
+   ],
+   [
+    "Nurses' union",
+    "Says human workers were replaced by AI software"
+   ],
+   [
+    "Hospital leaders",
+    "Call that characterization “misleading”"
+   ],
+   [
+    "Counted as",
+    "Technological update (possibly AI)",
+    "gold"
+   ]
+  ],
+  "source": "Source: Challenger, Gray &amp; Christmas · July 2026 report (pub. Aug 6, 2026), citing the union's statement and Gothamist"
+ },
+ {
+  "id": "s08b-twelve",
+  "type": "kinetic",
+  "dur": 5,
+  "lines": [
+   {
+    "text": "Twelve jobs.",
+    "cls": "big",
+    "style": "font-size:150px",
+    "at": 0
+   },
+   {
+    "text": "Two versions of why.",
+    "cls": "big gold",
+    "style": "font-size:150px;margin-top:10px",
+    "at": 1.2
+   }
+  ]
+ },
+ {
+  "id": "s09-quote",
+  "type": "quote",
+  "dur": 10,
+  "text": "As regulations start to take shape, companies will be even more careful in their announcements, which would make tracking [[the impact of AI on jobs more opaque]].",
+  "who": "Andy Challenger · Challenger, Gray &amp; Christmas · Aug 2026"
+ },
+ {
+  "id": "s10-microsoft",
+  "type": "rows",
+  "dur": 8,
+  "kicker": "October 2026 · even the counting has edges",
+  "title": "Microsoft",
+  "rows": [
+   [
+    "Voluntary exit offers",
+    "60,000 employees"
+   ],
+   [
+    "In October's job-cut total",
+    "None",
+    "gold"
+   ],
+   [
+    "Counted only",
+    "When accepted, or as a stated target"
+   ]
+  ],
+  "source": "Source: Challenger, Gray &amp; Christmas · October 2026 report (pub. Nov 5, 2026)"
+ },
+ {
+  "id": "ch3",
+  "type": "chapter",
+  "dur": 4,
+  "n": "PART 3",
+  "title": "What the Headlines Hide"
+ },
+ {
+  "id": "s11-ai",
+  "type": "compare",
+  "dur": 9,
+  "kicker": "Announced job cuts citing AI",
+  "cols": [
+   {
+    "value": 121401,
+    "label": "2026 · January–October",
+    "color": "gold"
+   },
+   {
+    "value": 54836,
+    "label": "All of 2025"
+   }
+  ],
+  "foot": "More than double",
+  "source": "Source: Challenger, Gray &amp; Christmas · May and October 2026 reports"
+ },
+ {
+  "id": "s11-total",
+  "type": "compare",
+  "dur": 9,
+  "kicker": "All announced job cuts · January–October",
+  "cols": [
+   {
+    "value": 617189,
+    "label": "2026",
+    "size": 118
+   },
+   {
+    "value": 1099500,
+    "label": "2025",
+    "size": 118
+   }
+  ],
+  "foot": "<span class=\"red\">Down 44%</span> — more AI in the explanations, fewer cuts overall",
+  "source": "Source: Challenger, Gray &amp; Christmas · October 2026 report · 2025 includes large federal workforce reductions"
+ },
+ {
+  "id": "s12-mirror",
+  "type": "kinetic",
+  "dur": 7,
+  "lines": [
+   {
+    "text": "Fear, then relief.",
+    "cls": "big",
+    "style": "font-size:130px",
+    "at": 0
+   },
+   {
+    "text": "Neither was based on your own work.",
+    "cls": "sub gold",
+    "style": "margin-top:40px;font-size:52px",
+    "at": 1.5
+   }
+  ]
+ },
+ {
+  "id": "s13-reframe",
+  "type": "kinetic",
+  "dur": 7,
+  "lines": [
+   {
+    "text": "AI won't replace everyone.",
+    "cls": "mid",
+    "at": 0
+   },
+   {
+    "text": "But it will expose everyone.",
+    "cls": "big gold",
+    "style": "font-size:120px;margin-top:30px",
+    "at": 1.4
+   }
+  ]
+ },
+ {
+  "id": "s13-quote",
+  "type": "quote",
+  "dur": 7,
+  "text": "…AI is [[shifting the labor market]], it is not dismantling it.",
+  "who": "Andy Challenger · Challenger, Gray &amp; Christmas · Aug 2026"
+ },
+ {
+  "id": "s14-lowfire",
+  "type": "quote",
+  "dur": 6,
+  "text": "This is a [[low-fire environment]].",
+  "who": "Andy Challenger · Challenger, Gray &amp; Christmas · Nov 2026"
+ },
+ {
+  "id": "s14-hiring",
+  "type": "rows",
+  "dur": 9,
+  "kicker": "2026 hiring plans · January–October",
+  "title": "Up 34% — but look closer",
+  "rows": [
+   [
+    "Seasonal",
+    "About 72% of all plans"
+   ],
+   [
+    "Seasonal plans from",
+    "Just 5 companies so far"
+   ],
+   [
+    "Largest single plan",
+    "Amazon · 300,000 holiday workers",
+    "gold"
+   ]
+  ],
+  "source": "Source: Challenger, Gray &amp; Christmas · October 2026 report (pub. Nov 5, 2026) · announced plans, not hires"
+ },
+ {
+  "id": "ch4",
+  "type": "chapter",
+  "dur": 4,
+  "n": "PART 4",
+  "title": "Three Things That Belong to You"
+ },
+ {
+  "id": "s16-tech",
+  "type": "number",
+  "dur": 8,
+  "kicker": "Technology sector · announced cuts · Jan–Oct 2026",
+  "value": 171501,
+  "sub": "<span class=\"gold\">28%</span> of all announced cuts — already more than the sector's 154,445 in all of 2025",
+  "source": "Source: Challenger, Gray &amp; Christmas · October 2026 report (pub. Nov 5, 2026)"
+ },
+ {
+  "id": "s17-exposure",
+  "type": "kinetic",
+  "dur": 6,
+  "lines": [
+   {
+    "text": "01",
+    "cls": "kicker",
+    "at": 0
+   },
+   {
+    "text": "Exposure",
+    "cls": "big gold",
+    "style": "font-size:190px;text-transform:uppercase",
+    "at": 0.3
+   },
+   {
+    "text": "Which part of your week is pattern — and which is judgment?",
+    "cls": "sub",
+    "at": 1.0
+   }
+  ]
+ },
+ {
+  "id": "s17b-test",
+  "type": "kinetic",
+  "dur": 7,
+  "lines": [
+   {
+    "text": "A two-week test",
+    "cls": "kicker",
+    "at": 0
+   },
+   {
+    "text": "Each day, write down one decision only you could have made.",
+    "cls": "mid",
+    "style": "margin-top:24px;max-width:1500px",
+    "at": 0.4
+   },
+   {
+    "text": "If the list stays short, that is your signal.",
+    "cls": "sub gold",
+    "style": "margin-top:36px",
+    "at": 1.6
+   }
+  ]
+ },
+ {
+  "id": "s18-visibility",
+  "type": "kinetic",
+  "dur": 6,
+  "lines": [
+   {
+    "text": "02",
+    "cls": "kicker",
+    "at": 0
+   },
+   {
+    "text": "Visibility",
+    "cls": "big gold",
+    "style": "font-size:190px;text-transform:uppercase",
+    "at": 0.3
+   },
+   {
+    "text": "Could a stranger understand your value — quickly?",
+    "cls": "sub",
+    "at": 1.0
+   }
+  ]
+ },
+ {
+  "id": "s18b-file",
+  "type": "rows",
+  "dur": 8,
+  "kicker": "Keep an evidence file",
+  "title": "Update it after every project",
+  "rows": [
+   [
+    "1",
+    "The problem"
+   ],
+   [
+    "2",
+    "What you did"
+   ],
+   [
+    "3",
+    "The result you can honestly describe",
+    "gold"
+   ]
+  ]
+ },
+ {
+  "id": "s19-time",
+  "type": "kinetic",
+  "dur": 6,
+  "lines": [
+   {
+    "text": "03",
+    "cls": "kicker",
+    "at": 0
+   },
+   {
+    "text": "Time",
+    "cls": "big gold",
+    "style": "font-size:190px;text-transform:uppercase",
+    "at": 0.3
+   },
+   {
+    "text": "How long could you choose — instead of accept?",
+    "cls": "sub",
+    "at": 1.0
+   }
+  ]
+ },
+ {
+  "id": "s19b-runway",
+  "type": "kinetic",
+  "dur": 8,
+  "lines": [
+   {
+    "text": "Months of runway",
+    "cls": "big gold",
+    "style": "font-size:120px",
+    "at": 0
+   },
+   {
+    "text": "= what you have set aside ÷ what your household really spends in a month",
+    "cls": "sub",
+    "style": "margin-top:30px",
+    "at": 0.8
+   },
+   {
+    "text": "Not your salary — your expenses.",
+    "cls": "mid",
+    "style": "margin-top:44px;font-size:60px",
+    "at": 2.2
+   }
+  ]
+ },
+ {
+  "id": "s20-payoff",
+  "type": "kinetic",
+  "dur": 8,
+  "lines": [
+   {
+    "text": "Your risk lives in three places",
+    "cls": "kicker",
+    "at": 0
+   },
+   {
+    "text": "Exposure · Visibility · Time",
+    "cls": "big gold",
+    "style": "font-size:110px;margin:30px 0;text-transform:uppercase",
+    "at": 0.5
+   },
+   {
+    "text": "The headlines never measure them.",
+    "cls": "sub",
+    "at": 1.6
+   }
+  ]
+ },
+ {
+  "id": "s21-question",
+  "type": "kinetic",
+  "dur": 9,
+  "lines": [
+   {
+    "text": "When the next headline arrives,",
+    "cls": "mid",
+    "at": 0
+   },
+   {
+    "text": "will you be reading it —",
+    "cls": "mid",
+    "style": "margin-top:16px",
+    "at": 1.2
+   },
+   {
+    "text": "or will it be deciding for you?",
+    "cls": "big gold",
+    "style": "font-size:96px;margin-top:30px",
+    "at": 2.6
+   }
+  ]
+ }
+]
