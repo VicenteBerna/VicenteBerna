@@ -143,7 +143,8 @@ Detalhes completos em `4-plataforma-arsenal.md`. Resumo (2026-11-20):
   Editor, é gratuita e exige informar que a narração é gerada por IA.
 - **A licença comercial não é garantida pelo Arsenal:** vale o termo oficial de cada provedor.
 - O Arsenal **não oferece motion graphics nem tipografia**: essas peças precisam de outra fonte.
-- O Arsenal é a plataforma padrão do Motor 33 (rota com título e roteiro fornecidos).
+- O Arsenal é a plataforma padrão do Motor 33 (rota com título e roteiro fornecidos) e a **plataforma
+  de apoio com recursos gratuitos** do canal — o criador tem **acesso vitalício**.
 
 ## Motor 33 — responsabilidades (definidas pelo criador, 2026-11-20)
 

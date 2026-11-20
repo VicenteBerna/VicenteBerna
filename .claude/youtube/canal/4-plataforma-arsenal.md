@@ -12,6 +12,8 @@ como **VERIFICADO** o que foi visto em tela, documentação ou teste; o resto fi
 ## Condições do plano
 
 INFORMADO pelo criador (2026-11-19): custo zero e uso sem limites **das ferramentas do Arsenal**.
+**Acesso vitalício** (informado pelo criador, 2026-11-20). Papel definido: **plataforma de apoio com
+recursos gratuitos** do canal.
 **Corrigido pelas respostas do suporte (2026-11-19):** o Arsenal usa contas e chaves de terceiros
 para voz e vídeo com IA — esses têm custo e limites próprios (ver abaixo). A licença de uso comercial
 **não é garantida pelo Arsenal**: depende dos termos oficiais de cada provedor.
