@@ -9,11 +9,12 @@ como **VERIFICADO** o que foi visto em tela, documentação ou teste; o resto fi
   suporte.
 - **Suporte:** IA especializada "Marcos Ajuda" (botão no canto inferior direito da plataforma).
 
-## Condições do plano (INFORMADO pelo criador, 2026-11-19)
+## Condições do plano
 
-- Custo zero e uso sem limites para o criador.
-- Gera a voz (narração).
-- Licença permite uso comercial em canal monetizado no YouTube.
+INFORMADO pelo criador (2026-11-19): custo zero e uso sem limites **das ferramentas do Arsenal**.
+**Corrigido pelas respostas do suporte (2026-11-19):** o Arsenal usa contas e chaves de terceiros
+para voz e vídeo com IA — esses têm custo e limites próprios (ver abaixo). A licença de uso comercial
+**não é garantida pelo Arsenal**: depende dos termos oficiais de cada provedor.
 
 ## Ferramentas (VERIFICADO por print da Arsenal Academy, 2026-11-19)
 
@@ -44,15 +45,31 @@ ThumbLab → DarkMetrics/Gestor. **Rota do ProfitMoments:** título e roteiro fo
 
 Prioridade para o Motor 33: "Do zero à publicação", Editor Arsenal (4), VozLab (2).
 
-## PENDENTE — perguntas a confirmar (aulas ou "Marcos Ajuda")
+## Respostas do suporte "Marcos Ajuda" (INFORMADO pelo suporte, 2026-11-19)
 
-1. Colar um roteiro pronto sem que a plataforma altere a narração.
-2. Vozes do VozLab: são do ElevenLabs? Dá para usar um Voice ID específico?
-3. Configurações de voz ajustáveis (velocidade, estabilidade, estilo).
-4. Licença comercial de imagens, vídeos com IA e músicas — onde está documentada.
-5. Origem das imagens, vídeos e músicas de banco; risco de Content ID.
-6. Limites de geração de vídeo com IA.
-7. Exportação: 16:9, resolução, legenda SRT sincronizada.
-8. Estilos de cena disponíveis (motion graphics, tipografia, IA, banco, vídeo com IA).
-9. ThumbLab: texto exato da thumbnail.
-10. DarkMetrics: retenção, taxa de cliques e receita.
+| # | Tema | Resposta | Status / consequência |
+|---|---|---|---|
+| 1 | Roteiro pronto | Dá para colar um roteiro feito fora no ViralScript, seguir até Cenas e SRT e baixar o **CSV e o SRT**. O texto colado vira o roteiro oficial; "Editar" só muda se o usuário mexer. **Não há garantia documentada** de que nenhuma palavra muda. | **Controle obrigatório no Motor 33:** comparar o texto do SRT/CSV exportado com a narração travada, palavra por palavra (o Claude pode fazer essa comparação automaticamente) |
+| 2 | Vozes | O VozLab usa a **chave do próprio usuário** de um provedor: **ElevenLabs, Fish Audio, Gemini ou Microsoft Azure (Speech)**. A voz é escolhida dentro da ferramenta, com amostra. Uso por Voice ID: sem orientação. | A voz pelo VozLab **consome os créditos da conta do provedor** (ex.: caracteres do ElevenLabs) — não é custo zero |
+| 3 | Ajustes de voz | VozLab: voz, formato e **preset de narração** (documentário, explicativo, história emocional…). Sem velocidade, estabilidade ou estilo. No Editor, a narração **gerada no computador (grátis, Supertonic 3)** tem ajuste de velocidade. | Preset "documentário" combina com o canal |
+| 4 | Licença comercial | O suporte **não pode afirmar** licença: valem os termos oficiais de cada provedor (Google, Meta etc.). **Supertonic 3:** licença permite vídeo monetizado e **pede que se informe que a narração é gerada por IA**. | Licenças a verificar provedor por provedor; com Supertonic, declarar a narração por IA na descrição |
+| 5 | Música e bancos | Música: no Editor, a trilha vem de **uma biblioteca do próprio usuário**. **Real Lab:** usa fontes grátis e, do YouTube, **só vídeos com licença Creative Commons**. Origem completa e risco de Content ID: sem informação. | Música: baixar da Biblioteca de Áudio do YouTube para a biblioteca local. Vídeos CC do YouTube: exigem atribuição — evitar ou registrar crédito |
+| 6 | Limite de vídeo com IA | O **Video Lab** usa créditos das contas Google do usuário (**Flow**). Conta gratuita: **50 créditos por dia, sem acumular** (números do Google, podem mudar). | O vídeo com IA **tem limite diário** — reservar para o gancho e momentos-chave |
+| 7 | Exportação | Fluxo: Exportar → Salvar em… Resolução: sem informação. Legendas: "Gerar legendas" no Editor, no idioma da narração; o SRT do ViralScript serve para alinhamento. Proporção configurável no Video Lab. | Confirmar 16:9 e resolução no primeiro teste |
+| 8 | Estilo visual | **Estilo do projeto** no Video Lab: um texto que vale para todas as cenas. Escolha entre vídeo, imagem ou mescla ("um vídeo a cada N cenas"). **Sem motion graphics nem tipografia** como opção. | **Lacuna** para o estilo inspirado no @MagnatesMedia: gráficos, tipografia e motion graphics precisam de outra fonte |
+| 9 | Texto da thumbnail | ThumbLab: headline (com, sem ou variação) e editor com **"Adicionar texto"**. | ✅ O texto exato ("40% → 3%") é possível |
+| 10 | DarkMetrics | Views totais, média de views, desempenho por dia e horário, palavras vencedoras, duração ideal. **Sem retenção, taxa de cliques e receita.** | Análise pós-publicação: usar YouTube Studio + `/yt-retention` + vidIQ |
+
+**Ferramentas citadas pelo suporte, além da trilha:** Real Lab (banco de mídia), Video Lab (vídeo com
+IA via Google Flow), Supertonic 3 (voz local gratuita no Editor).
+
+## PENDENTE — perguntas de acompanhamento
+
+1. O Editor permite **importar mídia própria** (imagens PNG, clipes MP4) nas cenas? Necessário para
+   gráficos de dados e tipografia feitos fora do Arsenal.
+2. O áudio gerado no VozLab pode ser **baixado (MP3)**, e o Editor aceita uma narração de áudio externa?
+3. **Resolução** de exportação disponível no Editor (1080p?).
+4. Quais **fontes grátis** o Real Lab usa (Pexels? Pixabay?) e se registra os créditos de atribuição.
+5. Qual o **plano da conta Google** (Flow) do criador — gratuito ou pago — e quantos créditos uma cena
+   de vídeo consome.
+6. Plano do ElevenLabs do criador (caracteres por mês).
