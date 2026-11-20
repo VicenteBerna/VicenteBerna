@@ -105,15 +105,13 @@ atualizadas, com ranking de aprovação.
 
 ## Plataforma de produção: Arsenal Ferramentas Premium
 
-Informado pelo criador em 2026-11-19 (ainda não verificado em documentação ou teste):
+Detalhes completos em `4-plataforma-arsenal.md`. Resumo (2026-11-20):
 
-- **Custo zero e uso sem limites** para o criador.
-- **Gera também a voz** (narração).
-- **Licença permite uso comercial** em canal monetizado no YouTube.
-
-Consequências para a política de produção:
+- As ferramentas do Arsenal têm custo zero para o criador (informado pelo criador).
+- **Mas voz e vídeo com IA usam contas de terceiros** (informado pelo suporte): a voz do VozLab gasta
+  a chave do provedor escolhido (ElevenLabs, Fish Audio, Gemini ou Azure); o vídeo do Video Lab
+  gasta créditos do Google Flow (conta gratuita: 50 por dia). Exceção: a voz local Supertonic 3, no
+  Editor, é gratuita e exige informar que a narração é gerada por IA.
+- **A licença comercial não é garantida pelo Arsenal:** vale o termo oficial de cada provedor.
+- O Arsenal **não oferece motion graphics nem tipografia**: essas peças precisam de outra fonte.
 - O Arsenal é a plataforma padrão do Motor 33 (rota com título e roteiro fornecidos).
-- O custo real a controlar passa a ser: caracteres do ElevenLabs (se a voz vier da conta própria),
-  créditos do vidIQ e o **tempo de produção** do criador.
-- Pendente: confirmar no Arsenal os módulos (cenas, voz, imagens, legendas, música, montagem),
-  as vozes disponíveis e se a voz é a mesma do ElevenLabs.
