@@ -13,9 +13,10 @@ main uncertainty, what is still pending, credits spent, and the approval status.
 Then the **ranking table for the creator**, in plain Portuguese, **one theme per row** (never themes
 as columns), ordered by position:
 
-| # | Tema | Do que trata | Ponto mais forte | Ponto mais fraco | Decisão |
+| # | Tema | Segmento | Do que trata | Ponto mais forte | Ponto mais fraco | Decisão |
 
 - **Tema:** the full working theme name, never an internal code like D1.
+- **Segmento:** A Stability Builder / B Options Builder / C Freedom Seeker.
 - **Do que trata:** one plain sentence, with at most one number.
 - **Ponto mais forte / mais fraco:** a few words each, no jargon (say "interesse do público
   crescendo", not "demand +60.7%").
@@ -48,7 +49,7 @@ USER_DIRECTED: the user's territory only.
 
 For each opportunity:
 - development and fact IDs used
-- editorial line (one of five) and journey
+- editorial line (one of five) and segment/journey (A/B/C) with the central question it answers
 - editorial value
 - demand: measured (vidIQ, with limits) / documented / inferred — kept separate
 - human consequence: time, family, identity, freedom
@@ -58,7 +59,7 @@ For each opportunity:
 - the eight gates, PASS / FAIL / PENDING each
 - decision
 
-Then: line balance of the last 8 entries in `registro.md`, and any repetition found.
+Then: line and segment balance of the last 8 entries in `registro.md`, and any repetition found.
 
 **Comparison matrix (mandatory, technical).** Before the individual opportunities, one table with every assessed
 candidate as a column (PRODUCE, MONITOR and DISCARD) and, as rows, the eight comparison criteria,
@@ -109,6 +110,7 @@ One self-contained document, no placeholders, no reliance on prior conversation.
 read by `/pm-22` or pasted into another tool. Include:
 
 - Project ID (destination), Source Execution ID, approval status
+- editorial line and **segment/journey** with its central question
 - objective
 - the full handoff from F
 - all facts with dated URLs

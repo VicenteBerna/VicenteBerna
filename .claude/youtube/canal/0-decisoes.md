@@ -20,21 +20,50 @@ Registro das decisões confirmadas pelo criador. Toda skill do canal lê este ar
   mercado e do governo para que as pessoas criem opções enquanto ainda têm opções.
 - **Idioma dos vídeos:** inglês (público americano). Conversa de trabalho com o criador: português.
 
-## Público
+## Público (definição do criador, 2026-11-20)
 
-Profissional americano (homens e mulheres), 28 a 45 anos, assalariado (W-2) em empresa, com bom
-salário, mas sentindo que trocou liberdade por estabilidade. Preocupado com a IA e com o futuro da
-carreira. Não quer "ficar rico rápido": quer entender o jogo e criar opções.
+**Núcleo de posicionamento:** profissionais americanos de **30 a 49 anos**. **Alcance editorial
+inclusivo:** **25 a 54 anos** (corresponde às faixas 25–34, 35–44 e 45–54 do YouTube Studio, o que
+permite medir o público real).
 
-O objetivo é despertar as pessoas para a corrida dos ratos antes que seja tarde demais: consciência
-clara sobre o jogo e suas regras — trabalhar para enriquecer outros ou produzir a própria riqueza.
-A "prisão" do sistema pode ser compensadora, desde que a pessoa esteja consciente e não viva no
-automático. O canal busca clareza sobre os reais Momentos de Lucro da vida, que o dinheiro não compra.
+**Target audience (EN):** ProfitMoments serves primarily U.S.-based working professionals, especially
+adults ages 30–49, who want to strengthen their employability, build economic capacity, and create
+greater freedom of choice without unnecessarily sacrificing the stability they already have.
 
-Faixa etária confirmada: **28 a 45 anos**. Quem busca emprego e quem é independente, na mesma faixa,
-só é atendido quando o tema também serve ao público principal.
+**Posicionamento complementar (EN):** We help working adults understand the forces shaping their
+careers and finances so they can make better-informed decisions, protect their current stability,
+and build realistic options for the future.
 
-*(Definição detalhada do público: pendente, o criador vai enviar.)*
+**A pergunta que une o canal:** *How do I build more choices while protecting what I already have?*
+
+**Princípio editorial:** *ProfitMoments isn't about escaping the life you have. It's about building
+more freedom within it — and more options beyond it.*
+
+**O canal não fala só com quem tem problemas:** fala também com quem está bem hoje e quer construir um
+amanhã com mais opções. Essa é uma característica de identidade da marca.
+
+### Três segmentos = três jornadas (estados de necessidade, não canais diferentes)
+
+A mesma pessoa transita entre eles. Os três atendem à mesma necessidade maior: preservar e ampliar a
+capacidade de escolha.
+
+| Segmento | Jornada | Quem é | Pergunta central |
+|---|---|---|---|
+| **A — The Stability Builder** (principal) | Employability | Profissional empregado que quer preservar renda, manter relevância no mercado e desenvolver opções sem abandonar o trabalho | "How do I become more secure without giving up what I've built?" |
+| **B — The Options Builder** | Economic Capacity | Profissional com renda relativamente estável que percebe a importância de reservas, decisões financeiras e flexibilidade econômica | "How can I turn my income into more meaningful choices?" |
+| **C — The Freedom Seeker** | Modern Freedom | Pessoa redefinindo o significado de sucesso, querendo alinhar trabalho, dinheiro, tempo e qualidade de vida | "What does freedom look like beyond earning more?" |
+
+Os segmentos também funcionam como **perspectivas para encontrar oportunidades editoriais**.
+Territórios criativos iniciais (não são campeões qualificados — o Motor 11 investiga antes):
+- A: "Why Being Good at Your Job Isn't Enough for Career Security"
+- B: "A Good Salary Doesn't Always Mean Financial Flexibility"
+- C: "What If Financial Success Isn't the Same as Freedom?"
+
+**Sistema de classificação dos motores:** cada tema declara **uma linha editorial** (o assunto, entre
+as 5) e **um segmento/jornada** (para quem e para qual necessidade, entre os 3).
+
+**Manifesto:** a imagem da "prisão mais confortável do mundo" continua válida como a história pessoal
+do criador; no vídeo do Manifesto, o fechamento deve chegar ao princípio editorial acima.
 
 ## Dois tipos de vídeo
 
@@ -115,3 +144,25 @@ Detalhes completos em `4-plataforma-arsenal.md`. Resumo (2026-11-20):
 - **A licença comercial não é garantida pelo Arsenal:** vale o termo oficial de cada provedor.
 - O Arsenal **não oferece motion graphics nem tipografia**: essas peças precisam de outra fonte.
 - O Arsenal é a plataforma padrão do Motor 33 (rota com título e roteiro fornecidos).
+
+## Motor 33 — responsabilidades (definidas pelo criador, 2026-11-20)
+
+- **Estruturar e construir a comunicação efetiva com o público através dos vídeos:** a linguagem
+  visual, o ritmo, as cenas, os gráficos, as citações e o som que transformam a narração aprovada em
+  um vídeo que prende e é entendido.
+- **Fornecer todos os dados e descrições da thumbnail** (conceito, texto, composição, instruções
+  para o ThumbLab).
+- **Fornecer todo o cadastro do vídeo no YouTube** (campos do YouTube Studio: título, descrição com
+  capítulos e fontes, tags, categoria, idioma, público-alvo/conteúdo para crianças, declaração de
+  conteúdo alterado ou sintético, promoção paga, legendas, telas finais, cards, playlist, visibilidade
+  e agendamento), **garantindo total alinhamento com as políticas do YouTube**.
+
+## Identidade visual — aprovada na simulação de 2026-11-20
+
+- Base escura cinematográfica (grafite `#0E0F12`), texto em branco quente (`#F2EFE8`), **dourado
+  `#D4A84B` como cor de assinatura**, vermelho `#C8553D` só para alertas e quedas, cinza `#8A8F98` para
+  rótulos e fontes.
+- Fontes gratuitas (Google Fonts, uso comercial): **Montserrat** (títulos e números) e **Playfair
+  Display** (citações e capítulos).
+- Inspirado no estilo do @MagnatesMedia, adaptado ao tom calmo e premium. Detalhes no guia de estilo
+  (a criar com o Motor 33).

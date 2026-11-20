@@ -43,6 +43,16 @@ portable value, economic capacity and options. PREVENTIVE FREEDOM: build options
 removes choice. Not anti-employment — anti-automatic. No fear, panic, premature quitting or
 contempt for employment.
 
+**Audience:** U.S. working professionals, core 30–49, inclusive reach 25–54 — people who may be fine
+today and want more options tomorrow. **Editorial principle:** *ProfitMoments isn't about escaping
+the life you have. It's about building more freedom within it — and more options beyond it.*
+
+**Segment:** the handoff names the segment (A Stability Builder, B Options Builder, C Freedom
+Seeker). The hook, the Viewer Promise and the closing question speak to **that segment's central
+question** — A: "How do I become more secure without giving up what I've built?" · B: "How can I
+turn my income into more meaningful choices?" · C: "What does freedom look like beyond earning
+more?" If the handoff has no segment, derive it from the journey and label it derived.
+
 **Narrator:** daily/article videos use a calm, documentary voice with no first person. The
 Manifesto video is first person (the creator's real story). Follow the type stated in the handoff.
 
@@ -50,7 +60,7 @@ Manifesto video is first person (the creator's real story). Follow the type stat
 
 Require from the handoff: PROJECT ID, SOURCE EXECUTION, Theme, Subtitle, Thesis, Dominant Idea,
 facts and sources, SPOKEN CLAIMS, SOURCE NOTES, audience belief, contradiction, mechanism, human
-consequence, journey, demand intelligence, limits, prohibited claims, estimated runtime, approval
+consequence, journey and segment, demand intelligence, limits, prohibited claims, estimated runtime, approval
 status. Reuse equivalent fields. Missing Dominant Idea: derive it from the thesis and label it
 derived — no new claim. Clarify material ambiguity with the user.
 

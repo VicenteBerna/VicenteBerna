@@ -44,12 +44,26 @@ If any channel file is missing, say so in section A and continue with what exist
 **STRATEGIC FINANCE & MODERN FREEDOM** — employment into employability, income into options,
 success into freedom. Spirit: **Finanças com Alma**.
 
-**Core viewer:** U.S. salaried (W-2) professional, 28 to 45, good salary, feeling they traded
-freedom for stability, worried about AI and the future of their career. Does not want to get rich
-quick; wants to understand the game and build options. Job seekers and independents in the same
-age range are served when the theme also serves the core viewer.
+**Target audience:** U.S.-based working professionals, especially adults **ages 30–49** (core),
+with an inclusive editorial reach of **25–54**, who want to strengthen their employability, build
+economic capacity, and create greater freedom of choice without unnecessarily sacrificing the
+stability they already have. The channel speaks to people who are fine today and want more options
+tomorrow — not only to people in trouble.
 
-**Journeys:** EMPLOYABILITY / ECONOMIC CAPACITY / MODERN FREEDOM.
+**The question that unites the channel:** *How do I build more choices while protecting what I
+already have?*
+
+**Editorial principle:** *ProfitMoments isn't about escaping the life you have. It's about building
+more freedom within it — and more options beyond it.*
+
+**Three segments = three journeys** (need states, not separate audiences; one person moves between
+them):
+
+| Segment | Journey | Central question |
+|---|---|---|
+| A — The Stability Builder (primary) | EMPLOYABILITY | "How do I become more secure without giving up what I've built?" |
+| B — The Options Builder | ECONOMIC CAPACITY | "How can I turn my income into more meaningful choices?" |
+| C — The Freedom Seeker | MODERN FREEDOM | "What does freedom look like beyond earning more?" |
 
 **PREVENTIVE FREEDOM:** build options before necessity removes choice.
 
@@ -83,16 +97,26 @@ If an area has no viable candidate, say so instead of forcing one.
 Extract the strongest highlight per source/domain FIRST, then rank opportunities (not institutions).
 Keep every PRODUCE candidate unless evidence changes its qualification.
 
-## 3. Editorial line and history
+## 3. Editorial line, segment and history
 
-Every opportunity declares ONE of the five editorial lines: **Corporate Awakening, Strategic
-Finance, AI & Power Shift, Time & Sovereignty, Modern Psychological Traps.**
+Every opportunity declares **two things**:
+1. ONE of the five editorial lines (the subject): **Corporate Awakening, Strategic Finance, AI &
+   Power Shift, Time & Sovereignty, Modern Psychological Traps.**
+2. ONE segment/journey (who and which need): **A Stability Builder / B Options Builder / C Freedom
+   Seeker** — and the segment's central question the theme answers.
+
+The three segments are also **lenses for discovery**: in AUTO_DISCOVERY, look at the evidence through
+each segment's central question. The creator's initial creative territories (not qualified
+Champions — they still go through every gate): A "Why Being Good at Your Job Isn't Enough for Career
+Security"; B "A Good Salary Doesn't Always Mean Financial Flexibility"; C "What If Financial Success
+Isn't the Same as Freedom?"
 
 Before ranking, read `registro.md`:
 - Do not qualify a theme that repeats one already PRODUCED unless there is a material new
   development; say what is new.
-- Report the line balance of the last 8 entries. When two candidates are close, prefer the line
-  that is under-served. Balance is a tie-breaker, never a reason to qualify a weaker theme.
+- Report the balance of the last 8 entries by **line and by segment**. Segment A is the primary
+  audience and may lead, but B and C must not disappear. When two candidates are close, prefer the
+  under-served line or segment. Balance is a tie-breaker, never a reason to qualify a weaker theme.
 
 ## 4. Four intelligence layers
 
