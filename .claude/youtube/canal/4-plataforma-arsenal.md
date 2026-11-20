@@ -81,3 +81,4 @@ IA via Google Flow), Supertonic 3 (voz local gratuita no Editor).
 4. Plano do ElevenLabs do criador e teste comparativo de voz (ElevenLabs × Supertonic 3).
 5. Termos oficiais de licença: Google Flow (imagens e vídeo), ElevenLabs, Supertonic 3, Biblioteca de
    Áudio do YouTube — verificar nas páginas oficiais ao escrever a política de produção.
+6. O Editor aplica **movimento automático às imagens** (zoom lento/Ken Burns, deslocamento, parallax)? É configurável por cena?

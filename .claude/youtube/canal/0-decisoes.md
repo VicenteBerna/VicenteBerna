@@ -164,5 +164,11 @@ Detalhes completos em `4-plataforma-arsenal.md`. Resumo (2026-11-20):
   rótulos e fontes.
 - Fontes gratuitas (Google Fonts, uso comercial): **Montserrat** (títulos e números) e **Playfair
   Display** (citações e capítulos).
+- **Movimento em tudo (como no @MagnatesMedia):** nenhuma imagem parada na tela. Gráficos, números e
+  citações entram animados (MP4); imagens ganham zoom lento, deslocamento ou parallax; vídeos com IA já
+  têm movimento próprio. Ritmo: gancho mais rápido; meio com aproximações lentas e suaves (sensação
+  premium); revelações com movimento marcado ou pausa no silêncio. Sem tremidas, glitch ou zoom brusco
+  sem motivo. Se o Editor do Arsenal não animar imagens, o Claude converte cada imagem em clipe MP4
+  com movimento antes da importação.
 - Inspirado no estilo do @MagnatesMedia, adaptado ao tom calmo e premium. Detalhes no guia de estilo
   (a criar com o Motor 33).
