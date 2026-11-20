@@ -53,7 +53,8 @@
    {
     "text": "The technology didn't change that fast.",
     "cls": "mid",
-    "at": 0
+    "at": 0,
+    "style": "font-size:64px"
    },
    {
     "text": "The story did.",
@@ -299,7 +300,7 @@
    {
     "text": "Two versions of why.",
     "cls": "big gold",
-    "style": "font-size:150px;margin-top:10px",
+    "style": "font-size:124px;margin-top:10px",
     "at": 1.2
    }
   ]
@@ -412,7 +413,7 @@
    {
     "text": "But it will expose everyone.",
     "cls": "big gold",
-    "style": "font-size:120px;margin-top:30px",
+    "style": "font-size:100px;margin-top:30px",
     "at": 1.4
    }
   ]
@@ -459,7 +460,8 @@
   "type": "chapter",
   "dur": 4,
   "n": "PART 4",
-  "title": "Three Things That Belong to You"
+  "title": "Three Things That Belong to You",
+  "size": 84
  },
  {
   "id": "s16-tech",
@@ -623,7 +625,7 @@
    {
     "text": "Exposure · Visibility · Time",
     "cls": "big gold",
-    "style": "font-size:110px;margin:30px 0;text-transform:uppercase",
+    "style": "font-size:86px;margin:30px 0;text-transform:uppercase",
     "at": 0.5
    },
    {

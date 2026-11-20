@@ -54,7 +54,7 @@ const B={
    <div class="big" style="font-size:${s.size||250}px;margin-top:26px" data-in="0.3"><span class="${s.color||''}" data-count="${s.value}" data-dec="${s.dec||0}" data-pre="${s.pre||''}" data-suf="${s.suf||''}">0</span></div>
    <div class="rule" data-in="1.2"></div><div class="sub" data-in="1.5">${s.sub||''}</div></div>${BRAND}${SRC(s.source)}`,
  quote:s=>`<div class="center"><div class="quote" data-in="0">“${s.text.replace(/\[\[(.+?)\]\]/g,'<span class="hl">$1</span>')}”</div><div class="who" data-in="0.8">${s.who}</div></div>${BRAND}`,
- chapter:s=>`<div class="center"><div class="chap" data-in="0"><div class="chapn">${s.n}</div><div class="chapt">${s.title}</div></div></div>${BRAND}`,
+ chapter:s=>`<div class="center"><div class="chap" data-in="0"><div class="chapn">${s.n}</div><div class="chapt" style="${s.size?'font-size:'+s.size+'px':''}">${s.title}</div></div></div>${BRAND}`,
  rows:s=>`<div class="center"><div class="kicker" data-in="0">${s.kicker}</div><div class="mid" data-in="0.3" style="margin-top:18px">${s.title}</div>
    <div class="rows">${s.rows.map((r,i)=>`<div class="rl" data-in="${0.9+i*0.6}">${r[0]}</div><div class="rv ${r[2]||''}" data-in="${0.9+i*0.6}">${r[1]}</div>`).join('')}</div></div>${BRAND}${SRC(s.source)}`,
  compare:s=>`<div class="center"><div class="kicker" data-in="0">${s.kicker}</div><div class="cols">
