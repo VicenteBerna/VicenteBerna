@@ -215,9 +215,9 @@ or narrative value justifies its cost; otherwise lower-cost treatments that keep
 clarity. Video, animated images, graphics, typography, screenshots, documents, charts or stock must
 follow the approved policy, rights and budget; no expanded stock or web permission.
 
-**PENDING — production policy and budget:** the channel has not yet approved a visual policy, a
-rights policy, the production platforms or a credit limit. Motor 33 must resolve these with the
-creator first. **Planning never authorizes spending or generation** — no generation without an
-approved credit limit.
+**Production policy and budget:** resolved on 2026-11-20 — see
+`.claude/youtube/canal/5-politica-producao.md` (allowed media, licenses, AI-video limits and budget,
+AI disclosure) and `.claude/youtube/canal/6-guia-estilo.md` (visual style). **Planning never
+authorizes spending or generation** — AI-video clips need the creator's approval per batch.
 
 END COPY-READY MOTOR 33 PROMPT

@@ -122,7 +122,13 @@ atualizadas, com ranking de aprovação.
   verificação dos títulos, proposta de voz, atualidade e arquivos). Decisões: o M22 escreve a
   descrição do vídeo (com as notas de fonte), o texto da thumbnail (até 3 palavras) e 2 a 3
   sementes de Shorts. Capítulos ficam com o M33. vidIQ no M22: até 25 créditos por execução.
-- Motor 33: pendente de revisão.
+- **Motor 33 v2.3 — aprovado e transformado na skill `/pm-33`** (8 ajustes aprovados sobre a v2.2:
+  política de produção, guia de estilo, registro do Arsenal, dono da thumbnail = ThumbLab, capítulos
+  e descrição final com as fontes oficiais, duração acima de 8 minutos no controle final, declaração
+  de conteúdo com IA, Shorts e análise pós-publicação) + as responsabilidades definidas pelo criador
+  (comunicação efetiva, dados da thumbnail, cadastro completo no YouTube Studio). Kit de gráficos em
+  `.claude/skills/pm-33/graphics/`. vidIQ no M33: até 25 créditos por execução.
+- Arquivos de base: `5-politica-producao.md` (política) e `6-guia-estilo.md` (estilo).
 
 ### Ferramentas e relatórios
 

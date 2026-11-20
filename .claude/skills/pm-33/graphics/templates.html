@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Montserrat;font-weight:400;src:url(node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff2)}
+@font-face{font-family:Montserrat;font-weight:600;src:url(node_modules/@fontsource/montserrat/files/montserrat-latin-600-normal.woff2)}
+@font-face{font-family:Montserrat;font-weight:800;src:url(node_modules/@fontsource/montserrat/files/montserrat-latin-800-normal.woff2)}
+@font-face{font-family:Montserrat;font-weight:900;src:url(node_modules/@fontsource/montserrat/files/montserrat-latin-900-normal.woff2)}
+@font-face{font-family:Playfair;font-style:italic;font-weight:400;src:url(node_modules/@fontsource/playfair-display/files/playfair-display-latin-400-italic.woff2)}
+@font-face{font-family:Playfair;font-weight:700;src:url(node_modules/@fontsource/playfair-display/files/playfair-display-latin-700-normal.woff2)}
+:root{--bg:#0E0F12;--ink:#F2EFE8;--gold:#D4A84B;--red:#C8553D;--mute:#8A8F98;--line:#2A2C33}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#000}
+.f{width:1920px;height:1080px;position:relative;overflow:hidden;background:radial-gradient(ellipse at 50% 45%,#1a1c22 0%,var(--bg) 55%,#050506 100%);font-family:Montserrat;color:var(--ink);display:none}
+.f.on{display:block}
+.f::after{content:"";position:absolute;inset:0;pointer-events:none;opacity:.07;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2'/></filter><rect width='200' height='200' filter='url(%23n)'/></svg>")}
+.brand{position:absolute;left:96px;bottom:64px;font-weight:800;letter-spacing:.32em;font-size:18px;color:var(--mute)}
+.brand b{color:var(--gold)}
+.src{position:absolute;right:96px;bottom:64px;font-size:20px;color:var(--mute);letter-spacing:.02em}
+.center{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}
+.kicker{font-weight:600;font-size:34px;letter-spacing:.28em;color:var(--mute);text-transform:uppercase}
+.huge{font-weight:900;font-size:260px;line-height:.95;letter-spacing:-.02em}
+.gold{color:var(--gold)} .red{color:var(--red)}
+.h1{font-weight:900;font-size:120px;line-height:1.02;letter-spacing:-.01em;text-transform:uppercase}
+.sub{font-weight:600;font-size:46px;color:var(--ink);opacity:.9;margin-top:28px;max-width:1400px;line-height:1.25}
+.rule{width:140px;height:6px;background:var(--gold);margin:44px auto}
+.quote{font-family:Playfair;font-style:italic;font-size:76px;line-height:1.28;max-width:1500px}
+.hl{background:linear-gradient(transparent 62%,rgba(212,168,75,.55) 62%);font-style:italic}
+.who{margin-top:48px;font-size:30px;letter-spacing:.18em;color:var(--mute);text-transform:uppercase;font-weight:600}
+.chap{border:2px solid var(--gold);padding:44px 90px}
+.chapn{font-weight:800;font-size:36px;letter-spacing:.5em;color:var(--gold)}
+.chapt{font-family:Playfair;font-weight:700;font-size:110px;margin-top:22px}
+svg text{font-family:Montserrat}
+/* thumbnail */
+.t{width:1280px;height:720px}
+</style></head><body>
+
+<!-- 1 HOOK -->
+<div class="f" id="hook"><div class="center">
+  <div class="kicker">This spring, AI was the</div>
+  <div class="h1 gold" style="font-size:230px;margin:18px 0">#1 reason</div>
+  <div class="sub">American companies gave for cutting jobs</div>
+</div><div class="brand">PROFIT<b>MOMENTS</b></div></div>
+
+<!-- 2 BIG NUMBER -->
+<div class="f" id="number"><div class="center">
+  <div class="kicker">May 2026 · announced job cuts citing AI</div>
+  <div class="huge" style="margin-top:30px">38,579</div>
+  <div class="rule"></div>
+  <div class="sub"><span class="gold" style="font-weight:900">40%</span> of every job cut announced that month — a record</div>
+</div><div class="brand">PROFIT<b>MOMENTS</b></div><div class="src">Source: Challenger, Gray &amp; Christmas · May 2026 report (pub. Jun 4, 2026)</div></div>
+
+<!-- 3 CHART -->
+<div class="f" id="chart">
+  <div style="position:absolute;left:150px;top:110px">
+    <div class="kicker" style="text-align:left">Share of announced U.S. job cuts citing AI · 2026</div>
+    <div style="font-weight:900;font-size:76px;margin-top:16px">The rise — and the fall</div>
+  </div>
+  <svg id="chartsvg" width="1920" height="1080" style="position:absolute;inset:0"></svg>
+  <div class="brand">PROFIT<b>MOMENTS</b></div>
+  <div class="src">Source: Challenger, Gray &amp; Christmas (May, Jul, Oct 2026 reports) · Oct = 1,265 of 43,994 (our calculation) · dashed = months not shown</div>
+</div>
+
+<!-- 4 QUOTE -->
+<div class="f" id="quote"><div class="center">
+  <div class="quote">“Naming AI in a layoff announcement can <span class="hl">win over investors</span> while pushing current and prospective employees away.”</div>
+  <div class="who">Andy Challenger · Challenger, Gray &amp; Christmas · Aug 2026</div>
+</div><div class="brand">PROFIT<b>MOMENTS</b></div></div>
+
+<!-- 5 CHAPTER -->
+<div class="f" id="chapter"><div class="center">
+  <div class="chap"><div class="chapn">PART 2</div><div class="chapt">The Label Is a Message</div></div>
+</div><div class="brand">PROFIT<b>MOMENTS</b></div></div>
+
+<!-- 6 THUMB -->
+<div class="f t" id="thumb">
+  <div style="position:absolute;inset:0;background:radial-gradient(ellipse at 70% 50%,#23252c 0%,#0b0c0f 70%)"></div>
+  <div style="position:absolute;right:70px;top:90px;width:470px;height:560px;border-radius:12px;background:linear-gradient(180deg,#2a2c33,#15161a);display:flex;align-items:center;justify-content:center;color:#5c606a;font-size:26px;text-align:center;font-weight:600;padding:30px">[Faceless suited silhouette — Google Flow image]</div>
+  <div style="position:absolute;left:70px;top:150px">
+    <div style="font-weight:900;font-size:190px;line-height:.9;color:var(--gold)">40%</div>
+    <div style="font-weight:900;font-size:120px;line-height:1;color:var(--ink);margin:6px 0 0 8px">→ 3%</div>
+  </div>
+  <div style="position:absolute;left:78px;bottom:70px;font-weight:800;font-size:30px;letter-spacing:.2em;color:var(--mute)">THE AI LAYOFF STORY</div>
+</div>
+
+<script>
+// chart: verified points only
+const pts=[[1,7,'JAN'],[3,25,'MAR'],[4,26,'APR'],[5,40,'MAY'],[7,33,'JUL'],[10,2.9,'OCT']];
+const s=document.getElementById('chartsvg');
+const X=m=>260+(m-1)*155, Y=v=>860-v*13;
+let g='';
+for(const v of [0,10,20,30,40]) g+=`<line x1="230" x2="1720" y1="${Y(v)}" y2="${Y(v)}" stroke="#2A2C33" stroke-width="2"/><text x="200" y="${Y(v)+10}" fill="#8A8F98" font-size="26" text-anchor="end">${v}%</text>`;
+for(let i=1;i<pts.length;i++){const a=pts[i-1],b=pts[i];const gap=b[0]-a[0]>1;
+ g+=`<line x1="${X(a[0])}" y1="${Y(a[1])}" x2="${X(b[0])}" y2="${Y(b[1])}" stroke="${i>=5?'#C8553D':'#D4A84B'}" stroke-width="8" ${gap?'stroke-dasharray="18 16"':''} stroke-linecap="round"/>`;}
+for(const [m,v,l] of pts){
+ g+=`<circle cx="${X(m)}" cy="${Y(v)}" r="14" fill="#0E0F12" stroke="${m==10?'#C8553D':'#D4A84B'}" stroke-width="7"/>`;
+ g+=`<text x="${X(m)}" y="915" fill="#8A8F98" font-size="28" font-weight="600" text-anchor="middle" letter-spacing="4">${l}</text>`;}
+g+=`<text id="lbl5" x="${X(5)}" y="${Y(40)-40}" fill="#D4A84B" font-size="64" font-weight="900" text-anchor="middle">40%</text>`;
+g+=`<text id="lbl10" x="${X(10)-40}" y="${Y(2.9)+22}" fill="#C8553D" font-size="64" font-weight="900" text-anchor="end">&lt;3%</text>`;
+s.innerHTML=`<defs><clipPath id="cp"><rect id="cr" x="0" y="0" width="1920" height="1080"/></clipPath></defs>`+g.replace(/(<line x1="\d+(\.\d+)?" y1)/g,'$1');
+window.setProg=function(t){ // t 0..1 reveal from left
+  const w=230+t*1520; document.getElementById('cr').setAttribute('width',w);
+  document.querySelectorAll('#chartsvg circle, #chartsvg line[stroke-width="8"], #lbl5, #lbl10').forEach(e=>e.setAttribute('clip-path','url(#cp)'));
+};
+</script>
+</body></html>
