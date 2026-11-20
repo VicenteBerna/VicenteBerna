@@ -53,7 +53,7 @@ Prioridade para o Motor 33: "Do zero à publicação", Editor Arsenal (4), VozLa
 | 2 | Vozes | O VozLab usa a **chave do próprio usuário** de um provedor: **ElevenLabs, Fish Audio, Gemini ou Microsoft Azure (Speech)**. A voz é escolhida dentro da ferramenta, com amostra. Uso por Voice ID: sem orientação. | A voz pelo VozLab **consome os créditos da conta do provedor** (ex.: caracteres do ElevenLabs) — não é custo zero |
 | 3 | Ajustes de voz | VozLab: voz, formato e **preset de narração** (documentário, explicativo, história emocional…). Sem velocidade, estabilidade ou estilo. No Editor, a narração **gerada no computador (grátis, Supertonic 3)** tem ajuste de velocidade. | Preset "documentário" combina com o canal |
 | 4 | Licença comercial | O suporte **não pode afirmar** licença: valem os termos oficiais de cada provedor (Google, Meta etc.). **Supertonic 3:** licença permite vídeo monetizado e **pede que se informe que a narração é gerada por IA**. | Licenças a verificar provedor por provedor; com Supertonic, declarar a narração por IA na descrição |
-| 5 | Música e bancos | Música: no Editor, a trilha vem de **uma biblioteca do próprio usuário**. **Real Lab:** usa fontes grátis e, do YouTube, **só vídeos com licença Creative Commons**. Origem completa e risco de Content ID: sem informação. | Música: baixar da Biblioteca de Áudio do YouTube para a biblioteca local. Vídeos CC do YouTube: exigem atribuição — evitar ou registrar crédito |
+| 5 | Música e bancos | Música: no Editor, a trilha vem de **uma biblioteca do próprio usuário**. Real Lab: o suporte **retirou** a resposta sobre fontes grátis e vídeos Creative Commons (não está na base). Origem das mídias e risco de Content ID: sem informação. | Música: baixar da Biblioteca de Áudio do YouTube para a biblioteca local. **Real Lab: não usar até conhecer as fontes e licenças** |
 | 6 | Limite de vídeo com IA | O **Video Lab** usa créditos das contas Google do usuário (**Flow**). Conta gratuita: **50 créditos por dia, sem acumular** (números do Google, podem mudar). | O vídeo com IA **tem limite diário** — reservar para o gancho e momentos-chave |
 | 7 | Exportação | Fluxo: Exportar → Salvar em… Resolução: sem informação. Legendas: "Gerar legendas" no Editor, no idioma da narração; o SRT do ViralScript serve para alinhamento. Proporção configurável no Video Lab. | Confirmar 16:9 e resolução no primeiro teste |
 | 8 | Estilo visual | **Estilo do projeto** no Video Lab: um texto que vale para todas as cenas. Escolha entre vídeo, imagem ou mescla ("um vídeo a cada N cenas"). **Sem motion graphics nem tipografia** como opção. | **Lacuna** para o estilo inspirado no @MagnatesMedia: gráficos, tipografia e motion graphics precisam de outra fonte |
@@ -63,13 +63,21 @@ Prioridade para o Motor 33: "Do zero à publicação", Editor Arsenal (4), VozLa
 **Ferramentas citadas pelo suporte, além da trilha:** Real Lab (banco de mídia), Video Lab (vídeo com
 IA via Google Flow), Supertonic 3 (voz local gratuita no Editor).
 
-## PENDENTE — perguntas de acompanhamento
+## Respostas de acompanhamento (INFORMADO pelo suporte, 2026-11-20)
 
-1. O Editor permite **importar mídia própria** (imagens PNG, clipes MP4) nas cenas? Necessário para
-   gráficos de dados e tipografia feitos fora do Arsenal.
-2. O áudio gerado no VozLab pode ser **baixado (MP3)**, e o Editor aceita uma narração de áudio externa?
-3. **Resolução** de exportação disponível no Editor (1080p?).
-4. Quais **fontes grátis** o Real Lab usa (Pexels? Pixabay?) e se registra os créditos de atribuição.
-5. Qual o **plano da conta Google** (Flow) do criador — gratuito ou pago — e quantos créditos uma cena
-   de vídeo consome.
-6. Plano do ElevenLabs do criador (caracteres por mês).
+| # | Tema | Resposta | Consequência |
+|---|---|---|---|
+| A1 | Mídia própria no Editor | **Sim, desde a versão 0.3.11.** Clicar na cena (aba Cenas ou linha do tempo) → **Escolher do computador** → imagem (JPG, PNG, WEBP) ou vídeo (MP4, MOV, WEBM). O Editor copia o arquivo para a pasta do vídeo. Em vídeo, pergunta: manter a duração da cena ou usar a do clipe. "Voltar ao automático" desfaz. | ✅ Gráficos de dados, cartões de citação e tipografia feitos fora do Arsenal podem entrar em cenas específicas |
+| A2 | Narração | VozLab: **Baixar narração completa** e salvar na pasta do vídeo (formato a conferir). O Editor **aceita narração externa** (outra ferramenta, CapCut): basta o áudio estar na pasta do vídeo — MP3, WAV, M4A, AAC, OGG, OPUS, FLAC (0.3.11+). Senão: **Escolher o arquivo da narração**. | ✅ A voz pode ser gerada em qualquer ferramenta (inclusive direto no ElevenLabs) e importada |
+| A3 | Resolução de exportação | Sem informação. | Confirmar no primeiro teste de exportação |
+| A4 | Fontes do Real Lab | Sem informação; resposta anterior sobre fontes grátis e Creative Commons **retirada**. | Real Lab fora da política até haver fontes e licenças conhecidas |
+| A5 | Créditos do Flow | Conta grátis (50 créditos/dia): **vídeo = 10 créditos** (~5 vídeos por conta por dia); **imagem = 0 créditos**. Números do Google, podem mudar. | Imagens com IA sem custo; **cerca de 5 clipes de vídeo com IA por dia** na conta grátis |
+
+## PENDENTE
+
+1. Resolução de exportação do Editor (testar).
+2. Fontes e licenças do Real Lab (suporte humano).
+3. Plano da conta Google (Flow) do criador.
+4. Plano do ElevenLabs do criador e teste comparativo de voz (ElevenLabs × Supertonic 3).
+5. Termos oficiais de licença: Google Flow (imagens e vídeo), ElevenLabs, Supertonic 3, Biblioteca de
+   Áudio do YouTube — verificar nas páginas oficiais ao escrever a política de produção.
