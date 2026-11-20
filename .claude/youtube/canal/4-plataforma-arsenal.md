@@ -81,4 +81,17 @@ IA via Google Flow), Supertonic 3 (voz local gratuita no Editor).
 4. Plano do ElevenLabs do criador e teste comparativo de voz (ElevenLabs × Supertonic 3).
 5. Termos oficiais de licença: Google Flow (imagens e vídeo), ElevenLabs, Supertonic 3, Biblioteca de
    Áudio do YouTube — verificar nas páginas oficiais ao escrever a política de produção.
-6. O Editor aplica **movimento automático às imagens** (zoom lento/Ken Burns, deslocamento, parallax)? É configurável por cena?
+6. Nomes exatos das animações do Editor (lista "Trocar animação") — pedir print ao criador.
+
+## Animações de imagem no Editor (INFORMADO pelo suporte, 2026-11-20 — versão 0.3.22)
+
+- O Editor **anima cenas de imagem** (cenas de vídeo já se movem e não entram na lista).
+- Nomes dos movimentos: **não informados**. Citada nas aulas: **"Pulsar"** (substituiu "Tremor") —
+  avaliar se combina com o tom calmo antes de usar.
+- **Todas as cenas:** aba Animações (ou Efeitos → Animações, na 0.3.22) → escolher → **Aplicar em todas
+  as cenas de imagem**; ou **Variar automaticamente** (sorteia movimentos diferentes, sem repetir).
+- **Por cena:** Efeitos → Animações → na linha da cena, **Trocar animação** (lista com prévia ao passar
+  o mouse); várias de uma vez: marcar cenas → **Trocar nas marcadas**; **Sortear de novo** (todas ou
+  marcadas, sem repetir a vizinha); **Aplicar só aqui** (só a cena aberta). **Desfazer** no alto.
+- Consequência: imagens com IA podem ser animadas no próprio Editor; o Motor 33 indica o movimento por
+  cena **depois de conhecer a lista**. Conversão em MP4 pelo Claude fica como alternativa.
