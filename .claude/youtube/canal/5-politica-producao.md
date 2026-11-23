@@ -49,6 +49,14 @@ meses ou quando um provedor anunciar mudança.
 | ElevenLabs | Narração (~8.600 caracteres) + até 15% de regravações | ~3 vídeos completos por mês no plano de 40.000 créditos (com Shorts) |
 | vidIQ | M11: 50 créditos · M22: 25 · M33: 25 (+ nota da thumbnail após publicar, 5) | Pedir antes de passar |
 
+**Planos do Google Flow** (preços dos EUA informados pelo criador em 2026-11-23; no Brasil podem
+diferir): Free US$0 — 50 créditos/dia (não acumulam) · AI Plus US$4,99 — +200/mês · AI Pro US$19,99 —
++1.000/mês · AI Ultra 5x US$99,99 — +10.000/mês · AI Ultra 20x US$199,99 — +25.000/mês. Com ~10
+créditos por clipe (dado do suporte do Arsenal, a confirmar no Flow), o plano gratuito dá ~5 clipes por
+dia (~150/mês gerando todos os dias). **Decisão:** vídeos 1 e 2 no plano gratuito, medindo o custo real
+por clipe; **AI Pro** quando o canal quiser 15–20 clipes por vídeo ou o teto diário atrasar a produção;
+Ultra só com o canal monetizando.
+
 O Motor 33 registra o uso real de cada recurso no relatório (estimado × usado), para planejar o ritmo
 de publicação e decidir assinaturas com base em dados.
 
