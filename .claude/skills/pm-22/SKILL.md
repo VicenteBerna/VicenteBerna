@@ -128,6 +128,10 @@ Attraction is not proven CTR. No invented metrics. Intent stays PROPOSED until a
 - Assess TRUTH, CLARITY, ATTRACTION, RELEVANCE, RETENTION PROMISE qualitatively
   (Strong / Medium / Weak). Select a Top 3 and a Champion title with the exact Viewer Promise,
   why it won, and its boundary/risk. Never imply performance testing.
+- **Browse vs. search titles:** state whether the video is mainly **browse** (recommended feed —
+  needs honest curiosity, contrast or contradiction) or **search** (people type or ask the question
+  — the title must be the exact question in the audience's words, which also serves conversational
+  AI search). The Top 3 is what Motor 33 will put in YouTube's title A/B test.
 - **Thumbnail Promise:** the idea the thumbnail adds to the title, plus the **thumbnail text —
   at most 3 words**, different words from the title, same promise. No image, layout, colors,
   composition or visual prompt — those belong to Motor 33.
@@ -154,8 +158,15 @@ suspense, repetition or manufactured interruption. Rules in [writing.md](writing
   editorial; clear. No outrage, hype, fear or coach language.
 - Fact → mechanism → human relevance → agency. Fulfill the Title and Viewer Promise; cut peripheral
   details.
-- End with the payoff, one relevant comment invitation, then the Strategic Closing Question. No
-  repeated CTA, no final sign-off.
+- End with the payoff, one relevant comment invitation, then the Strategic Closing Question — and,
+  when the next episode or a related video is known, **one spoken sentence pointing to it** (viewers
+  on TV don't read descriptions; the end screen shows it). No repeated CTA, no final sign-off.
+- **Blocks for TV and ads:** build the body in 4–5 parts, each with a beginning, a small reveal and a
+  clean transition — these become the chapters and the natural mid-roll points.
+- **Series:** if the theme belongs to a series, keep the series' opening line pattern and name.
+- **AI-persona rule:** the narrator never says "I", never has a name and never presents itself as an
+  expert; information and reflection, never prescriptive financial advice (policy §6b). First-person
+  videos are written for the creator's own voice.
 - No citations, URLs or production directions in the narration. Paragraphs ≠ scenes.
 - **Report, measured with a script:** narration word count (excluding labels), character count
   (ElevenLabs bills by characters), assumed 150 words per minute, duration estimate with stated

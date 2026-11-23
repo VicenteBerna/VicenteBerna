@@ -6,7 +6,7 @@
 
 ## RESUMO EM PORTUGUÊS
 
-- **Plano completo:** 21 parágrafos → **cerca de 95 cenas**, com 4 cartões de capítulo, **36 gráficos
+- **Plano completo:** 21 parágrafos → **cerca de 95 cenas**, com 4 cartões de capítulo, **38 gráficos
   animados** (produzidos pelo Claude, com dados verificados), **6 clipes de vídeo com IA** (gancho,
   mecanismo, espelho humano, virada e fechamento) e as demais cenas em **imagens do Google Flow**
   animadas no Editor.
@@ -88,7 +88,7 @@ reflection · MOOD = atmosphere.
 | 4 | 0:14 | 1 | "And your risk was never in the story." | Your risk | Hook | IMAGE: faceless professional at a desk at night, lit by a monitor, seen from behind | Slow push | — · MIRROR |
 | 5 | 0:17 | 2 | "Over the next few minutes…" | The promise | Viewer contract | IMAGE: wide dark corporate floor at dusk, city lights outside | Slow pan | — · MOOD |
 | 6 | 0:28 | 2 | "…a message rather than a measurement…" | Message vs. measurement | Viewer contract | IMAGE: a single printed announcement page on a dark boardroom table (no readable text) | Slow push | — · MOOD |
-| 7 | 0:38 | 2 | "One boundary first…" | What the numbers are | Limits | GRAPHIC `s02-limits` | Push-in | CF · DATA |
+| 7 | 0:38 | 2 | "One boundary first…" | What the numbers are | Limits | GRAPHIC `s02a-limits` → `s02b-limits` | Push-in | CF · DATA |
 | 8 | 0:54 | 3 | (chapter start) | PART 1 | Chapter | GRAPHIC `ch1` | Push-in | — |
 | 9 | 0:58 | 3 | "The numbers come from Challenger…" | The tracker | Reveal | IMAGE: archive-style shelves of monthly reports, warm light (generic, no logos) | Slow pan | — · MOOD |
 | 10 | 1:08 | 3 | "In January… seven percent… March, twenty-five…" | The rise | Reveal | GRAPHIC `s04-chart` (first half visible) | Chart draws | CF (F01) · DATA |
@@ -106,8 +106,8 @@ reflection · MOOD = atmosphere.
 | 22 | 2:45 | 6 | "That is an observation… not proof…" | Honest limit | Mechanism | IMAGE: magnifying glass over a blank document on a dark desk | Slow push | — · MOOD |
 | 23 | 2:52 | 7 | "Sometimes the label is straightforward…" | Case 1 | Story turn | GRAPHIC `s07-visa` | Rows reveal | CF (July report) · DATA |
 | 24 | 3:11 | 8 | "Other times, the same event tells two different stories…" | Case 2 | Story turn | IMAGE: hospital corridor at night, empty, soft blue light (no people) | Slow dolly | — · MOOD |
-| 25 | 3:20 | 8 | "The nurses' union said… Hospital leaders called…" | Two versions | Story turn | GRAPHIC `s08-montefiore` | Rows reveal | CF (positions attributed) · DATA |
-| 26 | 3:41 | 8 | "Twelve jobs. Two versions of why." | The ambiguity | Story turn | GRAPHIC `s08b-twelve` | Push-in | PI · FRAME |
+| 25 | 3:20 | 8 | "The nurses' union said… Hospital leaders called…" | Two versions | Story turn | GRAPHIC `s08a-montefiore` → `s08b-sides` | Rows reveal | CF (positions attributed) · DATA |
+| 26 | 3:41 | 8 | "Twelve jobs. Two versions of why." | The ambiguity | Story turn | GRAPHIC `s08c-twelve` | Push-in | PI · FRAME |
 | 27 | 3:47 | 9 | "The tracker expects this to get harder…" | Less visible | Forward loop | GRAPHIC `s09-quote` | Highlight + push | FC/EA (F08) · DATA |
 | 28 | 4:02 | 9 | "…the label may become less reliable…" | Label fog | Forward loop | IMAGE: a label tag on a box, slightly out of focus, dark warehouse | Rack-focus feel | PI · MOOD |
 | 29 | 4:12 | 10 | "Even the counting has edges… Microsoft…" | What's not counted | Counting edges | GRAPHIC `s10-microsoft` | Rows reveal | CF (F07) · DATA |
@@ -159,14 +159,17 @@ the Flow shows the real cost.
 
 ### GRAPHICS list (produced by the assistant — `graphics/`)
 
-36 animated MP4s (+ JPG previews), 1920×1080, 30 fps, style guide colors and fonts, slow push-in on
+38 animated MP4s (+ JPG previews), 1920×1080, 30 fps, style guide colors and fonts, slow push-in on
 every frame, source and date on every data frame: `s01a-hook`, `s01b-hook`, `s01c-hook`,
-`s02-limits`, `ch1`, `s03-may`, `s04-chart`, `s04-oct`, `s04-reason`, `s04-quote`, `s05-question`,
-`ch2`, `s06-quote`, `s07-visa`, `s08-montefiore`, `s08b-twelve`, `s09-quote`, `s10-microsoft`, `ch3`,
+`s02a-limits`, `s02b-limits`, `ch1`, `s03-may`, `s04-chart`, `s04-oct`, `s04-reason`, `s04-quote`, `s05-question`,
+`ch2`, `s06-quote`, `s07-visa`, `s08a-montefiore`, `s08b-sides`, `s08c-twelve`, `s09-quote`, `s10-microsoft`, `ch3`,
 `s11-ai`, `s11-total`, `s12-mirror`, `s13-reframe`, `s13-quote`, `s14-lowfire`, `s14-hiring`, `ch4`,
 `s16-tech`, `s17-exposure`, `s17b-test`, `s18-visibility`, `s18b-file`, `s19-time`, `s19b-runway`,
 `s20-payoff`, `s21-question`. Specs: `graphics/specs.json` (every number traceable to the M22
 source map).
+
+**TV rules applied (2026-11-23):** ≤12 words of main text per graphic, ≤3 rows (limits and
+Montefiore split in two screens), mid-roll points at the four chapter cards (~1 s musical pause).
 
 ## D–H. VISUAL QA · UPGRADES · FACTUAL CHECK · FINAL QA · THUMBNAIL AND PUBLISH SHEET
 
@@ -181,7 +184,7 @@ script integrity check, and the measured audio duration.
 | Flow (images) | ~45 images × 0 credits | 0 |
 | ElevenLabs | 8,559 characters (+ ≤15% retakes) — if chosen | 0 |
 | vidIQ | 0 this run | 0 |
-| Graphics (assistant) | 36 MP4 | produced in this run |
+| Graphics (assistant) | 38 MP4 | produced in this run |
 
 ## J. VALIDATION / NEXT STEP
 

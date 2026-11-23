@@ -146,6 +146,12 @@ consequences, turns and payoff — not evenly by runtime. Each upgrade: timestam
 current and proposed treatment, reason, benefit hypothesis, method or prompt, cost and uncertainty,
 approval status.
 
+### TV AND ADS CHECK
+Style guide §3b: ≤12 words of main text per graphic, minimum sizes, ≤3 rows, readable at ~3 m.
+Mark the **natural mid-roll points** (chapter transitions with ~1 s musical pause) in the plan and in
+the publish sheet. Final video above 8:00 — longer when the content sustains it (watch hours drive
+monetization).
+
 ### FINAL QA
 - **Editorial:** locks, word order and package intact; promise, retention, single CTA and payoff kept.
 - **Factual:** source fit, exact text and numbers, interpretation distinct, no prohibited implication.
@@ -158,15 +164,18 @@ approval status.
 Disclose untested elements. Technical readiness ≠ the creator's final approval.
 
 ### THUMBNAIL (ThumbLab)
-Deliver the full brief: the locked thumbnail text exactly; composition (where the number sits, the
+Deliver **three thumbnail variants** for YouTube's A/B test (Studio "Test & compare": up to three;
+the winner is decided by watch time). Each variant follows the brief below. Deliver the full brief: the locked thumbnail text exactly; composition (where the number sits, the
 faceless figure or symbolic object, background); colors and fonts from the guide; the ThumbLab steps
 (headline with/without/variation, Adicionar texto); the readability test at ~160 px wide; and what
 must not appear (real faces, logos, words repeated from the title). After publishing, the vidIQ
 thumbnail score (5 credits) may be used as a rough signal, never as a verdict.
 
 ### PUBLISH SHEET (YouTube Studio)
-Fill every field in [studio.md](studio.md), with the final measured chapters, and run its policy
-checklist. **Upload, scheduling and publication require the creator's explicit authorization**; the
+Fill every field in [studio.md](studio.md), with the final measured chapters, the title A/B test
+(the M22 Top 3) and the thumbnail A/B test (3 variants), and run its policy checklist. Also draft the
+**LinkedIn post** for the creator: a short, genuine insight from the video (3–6 lines, first person
+from the creator, no hype, no hashtag stuffing) + the link. **Upload, scheduling and publication require the creator's explicit authorization**; the
 creator performs them.
 
 ## 5. Shorts (optional, after the long video)

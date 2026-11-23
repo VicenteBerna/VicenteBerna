@@ -84,6 +84,26 @@ gráficos e dados próprios, narrativa e interpretação do canal, variedade rea
 editoriais e segmentos equilibrados). O Motor 33 **varia a estrutura visual** entre vídeos — o estilo é
 consistente, o vídeo não é um molde repetido.
 
+## 6b. Personas de IA em temas sensíveis (finanças) — regra crítica
+
+Política oficial (YouTube, "AI Personas Related to Sensitive Topics", jul/2026): canais que usam
+**personas geradas por IA** para dar informação sobre temas sensíveis — **qualquer conteúdo que se
+apresente como um especialista humano dando conselhos sobre saúde, questões jurídicas, finanças ou
+política** — **não podem ser monetizados**. Exemplo proibido: *"AI-generated podcast hosts offering
+financial guidance, investment tips, or wealth management advice."*
+
+**Regras do ProfitMoments:**
+1. O narrador de IA **nunca** tem nome, personagem, avatar, rosto ou "eu", e **nunca** se apresenta
+   como especialista ou como pessoa.
+2. O conteúdo é **informação e reflexão** ("o que os dados mostram", "perguntas para você se fazer"),
+   **nunca conselho financeiro prescritivo** (o que comprar, vender, investir, quanto poupar).
+3. **A pessoa real por trás do canal é declarada** na descrição de todo vídeo e na aba "Sobre".
+4. **Vídeos em primeira pessoa (Manifesto, histórias do criador) usam a voz do próprio criador** —
+   gravada ou clonada da própria voz (o YouTube não exige declaração para clone da própria voz).
+   Nunca uma voz de IA genérica falando "eu" como se fosse o criador.
+5. Todo vídeo termina a descrição com: *"This video is for information and education. It is not
+   financial or career advice."*
+
 ## 7. Conteúdo para crianças
 
 ProfitMoments é feito para adultos (25–54). Em todo vídeo: **"No, it's not made for kids"**. Nunca
@@ -97,6 +117,7 @@ usar personagens, músicas ou elementos que sugiram público infantil.
 - YouTube Help — Channel monetization policies (inauthentic e reused content):
   https://support.google.com/youtube/answer/1311392
 - YouTube Help — Made for kids: https://support.google.com/youtube/answer/9528076
+- YouTube Help — Updates to the YouTube Partner Program (fev/2027): https://support.google.com/youtube/answer/12843009 (conferido em 2026-11-23)
 - Google Terms of Service (vigente desde 30/07/2026): https://policies.google.com/terms
 - Google Generative AI Additional Terms (modificado em 09/08/2023): https://policies.google.com/terms/generative-ai
 - ElevenLabs Terms of Use (atualizado em 09/10/2026): https://elevenlabs.io/terms-of-use

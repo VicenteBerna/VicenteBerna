@@ -1,4 +1,4 @@
-# ProfitMoments — guia de estilo visual
+# ProfitMoments — guia de estilo visual · versão 1.0 (aprovada em 2026-11-23)
 
 Base: simulação aprovada pelo criador em 2026-11-20 e análise de 4 vídeos do @MagnatesMedia
 (referência de linguagem, nunca de identidade). O Motor 33 aplica este guia em todo vídeo. Os modelos
@@ -49,6 +49,18 @@ Nunca um parágrafo na tela.
 **Toda tela com dado mostra a fonte e a data** (canto inferior direito, cinza). Cálculos nossos são
 indicados ("our calculation").
 
+## 3b. Pensado para a TV (aprovado em 2026-11-23)
+
+O vídeo longo é cada vez mais assistido na TV da sala, a ~3 metros. Regras:
+- **No máximo 12 palavras de texto principal por gráfico** (sem contar o kicker, os rótulos pequenos e
+  a linha da fonte). Citações narradas ao mesmo tempo podem chegar a ~20 palavras.
+- **Tamanho mínimo:** texto de apoio 44 px, rótulos 30 px (em 1920×1080). A linha da fonte (20 px) é
+  referência, não leitura obrigatória.
+- **Gráficos de linhas: no máximo 3 linhas** — se houver mais, dividir em duas telas.
+- **Cada cartão de capítulo tem ~1 s de pausa musical:** é o ponto natural de intervalo comercial
+  (o YouTube prefere anúncios no meio do vídeo em pausas naturais).
+- A história se sustenta pela narração; o texto na tela reforça, não substitui.
+
 ## 4. Movimento — nada fica parado
 
 - **Toda imagem se move.** Gráficos, números e citações entram animados (MP4). Imagens de cena usam as
@@ -97,7 +109,10 @@ fundo escuro; no máximo 2 linhas; nunca cobrir números ou citações na tela.
 
 ## 9. Thumbnail (ThumbLab do Arsenal)
 
-- Fundo escuro, **número ou contraste em dourado gigante** (ex.: "40% → 3%"), no máximo 3 palavras.
+- **3 versões por vídeo**, para o teste A/B do YouTube Studio (vence o maior tempo assistido).
+- Fundo escuro, **número ou contraste em dourado gigante** (ex.: "40% → 3%"), no máximo 3 palavras
+  (até 5 em casos excepcionais).
+- Legível também na TV, a ~3 metros.
 - Uma figura sem rosto ou um objeto simbólico — nunca uma pessoa real.
 - Texto diferente do título (o título pergunta, a thumbnail mostra).
 - Legível em tamanho pequeno (testar reduzida a ~160 px de largura).

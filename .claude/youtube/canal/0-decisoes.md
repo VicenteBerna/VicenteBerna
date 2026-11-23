@@ -179,3 +179,52 @@ Detalhes completos em `4-plataforma-arsenal.md`. Resumo (2026-11-20):
   com movimento antes da importação.
 - Inspirado no estilo do @MagnatesMedia, adaptado ao tom calmo e premium. Detalhes no guia de estilo
   (a criar com o Motor 33).
+
+## Monetização — regra do YouTube a partir de 2027 (verificada em 2026-11-23)
+
+Fonte oficial: https://support.google.com/youtube/answer/12843009
+- **Até 31/01/2027:** entrada no Programa de Parcerias com 1.000 inscritos + 4.000 horas (12 meses) ou
+  10M de views de Shorts (90 dias).
+- **A partir de 01/02/2027, para novos criadores:** 1.000 inscritos + **8.000 horas** (365 dias) ou
+  **20M de views de Shorts** (90 dias). Quem já está no programa não é afetado.
+- **Sem mudança:** Shopping, parcerias com marcas e apoio dos fãs com **500 inscritos + 3.000 horas**
+  (ou 3M de views de Shorts em 90 dias).
+- Views de Shorts no feed de Shorts **não contam** como horas assistidas.
+- Conta de referência (estimativa): com ~5 min assistidos por view, 4.000 h ≈ 48 mil views; 8.000 h ≈
+  96 mil views em vídeos longos.
+
+## Sprint até janeiro de 2027 — aprovado em 2026-11-23
+
+Objetivo: tentar entrar pela regra atual (4.000 horas) **sem atalhos proibidos** (nada de comprar
+views/inscritos, troca de inscrições ou vídeos às pressas — o YouTube revisa o canal inteiro). Se as
+metas não forem atingidas, segue-se pela regra de 2027 sem prejuízo.
+
+| # | Ação |
+|---|---|
+| 1 | Publicar o vídeo 1 até o fim de novembro de 2026 |
+| 2 | Vídeo 2 = **The Layoff Ledger** de dezembro, 24–48 h após os relatórios da Challenger (início de dezembro) e do BLS (04/12) |
+| 3 | Vídeo 3 = vídeo "completo" de 20–25 min de fim de ano: *Everything that changed about work in 2026 (and what 2027 will demand)* |
+| 4 | Perguntas já provadas por vídeos "fora da curva", com a resposta própria do canal |
+| 5 | 3 thumbnails em teste A/B em todo vídeo (vence o tempo assistido) |
+| 6 | Shorts nos dias úteis, cada um apontando para um vídeo longo |
+| 7 | **LinkedIn:** o criador publica um insight curto de cada vídeo, com o link |
+| 8 | Início de janeiro: avaliar as metas; se perto, candidatar-se na hora |
+
+## Grade de séries (episódios) — aprovada em 2026-11-23
+
+| Série | O que é | Frequência | Segmento |
+|---|---|---|---|
+| **The Layoff Ledger** | Cortes e contratações do mês (Challenger + BLS) e o que significam para você | Mensal (1ª semana) | A |
+| **Behind the Number** | Um número oficial que todo mundo leu errado, e a verdade por trás dele | Semanal | A e B |
+| **Freedom, Redefined** | Ensaios sobre tempo, escolhas e liberdade além do salário | Quinzenal | C |
+| **Manifesto / pessoal** | A história do criador, com a voz do criador | A cada 4–5 vídeos | Conexão |
+
+Cada série tem nome, abertura e cartão próprios dentro do guia visual, e dia fixo de publicação. O
+Motor 11 preenche os episódios; formatos novos nascem por evolução (o que funciona ganha nome e dia).
+
+## Pessoa real por trás do canal (2026-11-23)
+
+O ProfitMoments é sobre **despertar como indivíduo**, não sobre finanças técnicas: **não dá conselhos
+financeiros** e não vende ilusões. Existe **uma pessoa real**, que viveu a corrida dos ratos na pele,
+por trás de cada tema — e isso é dito na descrição do canal e de todo vídeo. Pendentes: nome do criador
+visível (sim/não) e voz dos vídeos pessoais (real ou clone da própria voz).

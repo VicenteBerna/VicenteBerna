@@ -16,7 +16,7 @@ as columns), ordered by position:
 | # | Tema | Segmento | Do que trata | Ponto mais forte | Ponto mais fraco | Decisão |
 
 - **Tema:** the full working theme name, never an internal code like D1.
-- **Segmento:** A Stability Builder / B Options Builder / C Freedom Seeker.
+- **Segmento:** A Stability Builder / B Options Builder / C Freedom Seeker (and the series, if any).
 - **Do que trata:** one plain sentence, with at most one number.
 - **Ponto mais forte / mais fraco:** a few words each, no jargon (say "interesse do público
   crescendo", not "demand +60.7%").

@@ -118,6 +118,15 @@ Before ranking, read `registro.md`:
   audience and may lead, but B and C must not disappear. When two candidates are close, prefer the
   under-served line or segment. Balance is a tie-breaker, never a reason to qualify a weaker theme.
 
+### Series (episodes)
+
+The channel runs recurring series (`0-decisoes.md`): **The Layoff Ledger** (monthly, after the
+Challenger and BLS releases — Segment A), **Behind the Number** (weekly — A and B), **Freedom,
+Redefined** (biweekly — C), plus the creator's personal videos. Every candidate states whether it
+fits a series (and which) or is a stand-alone. When a scheduled series slot is due, the run must
+include at least one candidate for it. Copy **the question** proven by outlier videos, never the
+answer. A new format that performs can be proposed as a new series.
+
 ## 4. Four intelligence layers
 
 **TRUTH** — label every claim: Confirmed Fact / Emerging Signal / Forecast / External Analysis /

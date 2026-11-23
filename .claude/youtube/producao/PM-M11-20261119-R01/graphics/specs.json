@@ -65,11 +65,11 @@
   ]
  },
  {
-  "id": "s02-limits",
+  "id": "s02a-limits",
   "type": "rows",
-  "dur": 9,
+  "dur": 6,
   "kicker": "Before we start",
-  "title": "What these numbers are — and aren't",
+  "title": "What these numbers are",
   "rows": [
    [
     "Counts",
@@ -78,7 +78,17 @@
    [
     "Reason",
     "The one employers chose to state"
-   ],
+   ]
+  ],
+  "source": "Source: Challenger, Gray &amp; Christmas monthly Job Cuts Reports"
+ },
+ {
+  "id": "s02b-limits",
+  "type": "rows",
+  "dur": 5,
+  "kicker": "Before we start",
+  "title": "What they aren't",
+  "rows": [
    [
     "Not",
     "A census of every layoff",
@@ -105,7 +115,7 @@
   "dur": 7,
   "kicker": "May 2026 · announced job cuts citing AI",
   "value": 38579,
-  "sub": "<span class=\"gold\">40%</span> of every job cut announced that month — the most since tracking began in 2023",
+  "sub": "<span class=\"gold\">40%</span> of all cuts that month — a record",
   "source": "Source: Challenger, Gray &amp; Christmas · May 2026 report (pub. Jun 4, 2026)"
  },
  {
@@ -187,11 +197,11 @@
   "rows": [
    [
     "October",
-    "16,407 cuts · 37% of the month"
+    "16,407 cuts · 37%"
    ],
    [
     "2026 so far",
-    "130,531 — now ahead of AI",
+    "130,531 — ahead of AI",
     "gold"
    ]
   ],
@@ -245,11 +255,11 @@
   "rows": [
    [
     "Announced",
-    "A 7% workforce reduction"
+    "7% workforce reduction"
    ],
    [
     "Reason given",
-    "An efficiency push in which AI would reshape work"
+    "Efficiency push — AI reshaping work"
    ],
    [
     "Counted as",
@@ -260,23 +270,37 @@
   "source": "Source: Challenger, Gray &amp; Christmas · July 2026 report (pub. Aug 6, 2026)"
  },
  {
-  "id": "s08-montefiore",
+  "id": "s08a-montefiore",
   "type": "rows",
-  "dur": 10,
+  "dur": 6,
   "kicker": "Case 2 · Summer 2026",
   "title": "Montefiore · Bronx, New York",
   "rows": [
    [
     "Cut",
-    "12 utilization-review nursing positions"
+    "12 nursing positions"
    ],
    [
+    "After",
+    "Adopting new software"
+   ]
+  ],
+  "source": "Source: Challenger, Gray &amp; Christmas · July 2026 report (pub. Aug 6, 2026)"
+ },
+ {
+  "id": "s08b-sides",
+  "type": "rows",
+  "dur": 8,
+  "kicker": "Case 2 · two versions",
+  "title": "Who says what",
+  "rows": [
+   [
     "Nurses' union",
-    "Says human workers were replaced by AI software"
+    "Replaced by AI software"
    ],
    [
     "Hospital leaders",
-    "Call that characterization “misleading”"
+    "“Misleading”"
    ],
    [
     "Counted as",
@@ -287,7 +311,7 @@
   "source": "Source: Challenger, Gray &amp; Christmas · July 2026 report (pub. Aug 6, 2026), citing the union's statement and Gothamist"
  },
  {
-  "id": "s08b-twelve",
+  "id": "s08c-twelve",
   "type": "kinetic",
   "dur": 5,
   "lines": [
@@ -309,7 +333,7 @@
   "id": "s09-quote",
   "type": "quote",
   "dur": 10,
-  "text": "As regulations start to take shape, companies will be even more careful in their announcements, which would make tracking [[the impact of AI on jobs more opaque]].",
+  "text": "…companies will be even more careful in their announcements, which would make tracking [[the impact of AI on jobs more opaque]].",
   "who": "Andy Challenger · Challenger, Gray &amp; Christmas · Aug 2026"
  },
  {
@@ -437,19 +461,19 @@
   "type": "rows",
   "dur": 9,
   "kicker": "2026 hiring plans · January–October",
-  "title": "Up 34% — but look closer",
+  "title": "Hiring plans: up 34%",
   "rows": [
    [
     "Seasonal",
-    "About 72% of all plans"
+    "72% of all plans"
    ],
    [
     "Seasonal plans from",
-    "Just 5 companies so far"
+    "5 companies"
    ],
    [
-    "Largest single plan",
-    "Amazon · 300,000 holiday workers",
+    "Largest",
+    "Amazon · 300,000",
     "gold"
    ]
   ],
@@ -469,7 +493,7 @@
   "dur": 8,
   "kicker": "Technology sector · announced cuts · Jan–Oct 2026",
   "value": 171501,
-  "sub": "<span class=\"gold\">28%</span> of all announced cuts — already more than the sector's 154,445 in all of 2025",
+  "sub": "<span class=\"gold\">28%</span> of all cuts — already above the sector's 2025 total",
   "source": "Source: Challenger, Gray &amp; Christmas · October 2026 report (pub. Nov 5, 2026)"
  },
  {
@@ -510,12 +534,6 @@
     "cls": "mid",
     "style": "margin-top:24px;max-width:1500px",
     "at": 0.4
-   },
-   {
-    "text": "If the list stays short, that is your signal.",
-    "cls": "sub gold",
-    "style": "margin-top:36px",
-    "at": 1.6
    }
   ]
  },
@@ -559,7 +577,7 @@
    ],
    [
     "3",
-    "The result you can honestly describe",
+    "The honest result",
     "gold"
    ]
   ]
@@ -599,7 +617,7 @@
     "at": 0
    },
    {
-    "text": "= what you have set aside ÷ what your household really spends in a month",
+    "text": "= what you've set aside ÷ monthly household spending",
     "cls": "sub",
     "style": "margin-top:30px",
     "at": 0.8
@@ -641,21 +659,15 @@
   "dur": 9,
   "lines": [
    {
-    "text": "When the next headline arrives,",
+    "text": "Will you be reading it —",
     "cls": "mid",
     "at": 0
    },
    {
-    "text": "will you be reading it —",
-    "cls": "mid",
-    "style": "margin-top:16px",
-    "at": 1.2
-   },
-   {
     "text": "or will it be deciding for you?",
     "cls": "big gold",
-    "style": "font-size:96px;margin-top:30px",
-    "at": 2.6
+    "style": "font-size:100px;margin-top:30px",
+    "at": 1.4
    }
   ]
  }
