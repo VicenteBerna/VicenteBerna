@@ -228,3 +228,23 @@ O ProfitMoments é sobre **despertar como indivíduo**, não sobre finanças té
 financeiros** e não vende ilusões. Existe **uma pessoa real**, que viveu a corrida dos ratos na pele,
 por trás de cada tema — e isso é dito na descrição do canal e de todo vídeo. Pendentes: nome do criador
 visível (sim/não) e voz dos vídeos pessoais (real ou clone da própria voz).
+
+## Voz do canal — decidida em 2026-11-23
+
+- **Todos os vídeos usam um clone da voz do próprio criador** (ElevenLabs), falando inglês a partir de
+  gravações do criador em português brasileiro. Substitui o plano anterior (voz masculina/feminina de
+  biblioteca e o teste ElevenLabs × Supertonic).
+- Vídeos do dia a dia: estilo documentário, sem "eu" (decisão editorial). Vídeos pessoais (Manifesto):
+  primeira pessoa — é o criador falando, com a própria voz.
+- Política do YouTube: clonar a própria voz para narração **não exige declaração** de conteúdo com IA
+  e afasta o risco de "persona de IA" — o narrador é a pessoa real.
+- Pendente: criar o clone, gerar o gancho do vídeo 1 com ele e aprovar o resultado (inclusive o
+  sotaque). Geração no ElevenLabs e importação do áudio no Editor do Arsenal (rota confirmada pelo
+  suporte); uso do clone direto no VozLab não confirmado.
+
+## Norte de estilo — @MagnatesMedia (2026-11-23)
+
+O sonho do criador é um canal tão dinâmico quanto o @MagnatesMedia. Evolução em etapas: (1) vídeo 1
+como base, medindo a retenção real; (2) mais cortes no gancho e nas revelações, efeitos sonoros
+discretos e novos tipos de gráfico (linhas do tempo, mapas, ícones animados); (3) com o crescimento,
+plano pago do Google Flow para mais vídeo com IA. Sempre dinâmico, mas calmo e premium.
