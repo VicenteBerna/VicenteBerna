@@ -65,8 +65,8 @@ música que é o foco do vídeo. **Não precisa** declarar: conteúdo claramente
    **Attributes → "AI use" = Yes**.
 2. Se todas as imagens forem claramente estilizadas ou animadas → avaliar caso a caso no relatório do
    Motor 33; na dúvida, **Yes**.
-3. **Sempre**, em todo vídeo, uma linha na descrição: *"Narration and some visuals are AI-generated.
-   Research, sources and script are original."* (Transparência; também atende ao pedido da licença da
+3. **Sempre**, em todo vídeo, uma linha na descrição: *"Narration uses an AI clone of the creator's own
+   voice; some visuals are AI-generated. Research, sources and script are original."* (Transparência; também atende ao pedido da licença da
    Supertonic 3, se ela for usada.)
 
 O YouTube informa que declarar **não limita o alcance nem a monetização**; não declarar pode levar a

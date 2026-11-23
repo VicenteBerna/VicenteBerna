@@ -9,7 +9,7 @@ Studio shows different labels, record the difference.
 | Field | Rule |
 |---|---|
 | **Title** | The locked M22 title, exactly. |
-| **Description** | The M22 description, with the "real person behind the channel" line (see `7-cadastro-canal.md`) and: the first two lines as the search snippet; **chapters** from the measured final timings (first at `00:00`, at least 3, each ≥ 10 s — the format YouTube needs to show chapters); **SOURCES & NOTES** with every official source, publication date and URL; the AI line ("Narration and some visuals are AI-generated. Research, sources and script are original."); music attribution if any Creative Commons track was used; "This video is for information and education. It is not financial or career advice." |
+| **Description** | The M22 description, with the "real person behind the channel" line (see `7-cadastro-canal.md`) and: the first two lines as the search snippet; **chapters** from the measured final timings (first at `00:00`, at least 3, each ≥ 10 s — the format YouTube needs to show chapters); **SOURCES & NOTES** with every official source, publication date and URL; the AI line ("Narration uses an AI clone of the creator's own voice; some visuals are AI-generated. Research, sources and script are original."); music attribution if any Creative Commons track was used; "This video is for information and education. It is not financial or career advice." |
 | **Thumbnail** | The ThumbLab file made from the thumbnail brief — **3 variants in "Test & compare"** (winner by watch time). |
 | **Title test** | The M22 Top 3 titles in "Test & compare" when available; otherwise the champion title. |
 | **Playlist** | The playlist for the video's editorial line (create it if it doesn't exist). |
