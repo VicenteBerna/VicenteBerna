@@ -261,3 +261,23 @@ plano pago do Google Flow para mais vídeo com IA. Sempre dinâmico, mas calmo e
 - **Manifesto:** não pode ser uma voz de IA falando "eu" como o criador. Caminhos em aberto: (a)
   reescrever na terceira pessoa, narrado pela voz do canal; (b) a voz real do criador só nesse vídeo;
   (c) um locutor humano.
+
+## Antares — decisão de 2026-11-24
+
+- O criador vai **assinar o Antares** (framework de ~20 agentes de IA para Claude Code: pesquisa,
+  roteiro, estilo, narração, montagem, thumbnail, publicação no YouTube e Instagram, comentários e
+  análise), conhecido pelo vídeo do canal Sandeco (2026-11-23). Motivos: aceleração da produção,
+  publicação integrada e reaproveitamento para novos canais.
+- **Integração em conjunto, com cuidados:**
+  1. O Claude **revisa os arquivos do Antares antes da instalação** (agentes com acesso às contas de
+     YouTube e Instagram).
+  2. **Mapa Antares × motores 11/22/33:** usar os agentes do Antares onde automatizam bem (estilo,
+     montagem, publicação, Instagram, comentários, análise) e manter os motores onde o rigor importa.
+  3. **Regras do canal que não podem se perder:** fatos de fontes oficiais, verificados e atuais;
+     regra das personas de IA (sem "eu", sem conselho financeiro); aprovações do criador; vídeos de
+     10–12 min ou mais, foco em horas assistidas; guia de estilo, público, segmentos e séries.
+  4. Conferir no Antares como a publicação automática lida com a restrição a vídeos privados em
+     projetos de API do YouTube não verificados.
+  5. Chaves e senhas (YouTube, Instagram, ElevenLabs) nunca na conversa nem no repositório.
+- Pendente: o criador enviar os arquivos e a documentação de instalação do Antares.
+
