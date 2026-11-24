@@ -1,78 +1,68 @@
-# ProfitMoments — guia de criação da voz (clone da voz do criador)
+# ProfitMoments — guia de escolha da voz do canal
 
-Decisão de 2026-11-23: todos os vídeos usam um clone da voz do criador no ElevenLabs, falando inglês a
-partir de gravações em português brasileiro. Fonte: documentação oficial do ElevenLabs, conferida em
-2026-11-23.
+**Decisão de 2026-11-24:** a voz do canal será uma **voz da Voice Library do ElevenLabs**. O clone da
+voz do criador foi testado e não aprovado (voz nasalada; em canal sem rosto, a voz é o elemento
+central). Fonte das regras: documentação oficial do ElevenLabs, conferida em 2026-11-24.
 
-## Sotaque
+## Filtros da Voice Library
 
-- Meta: **inglês americano natural e fluente** (público dos EUA).
-- Gravar em **português**; gerar em inglês com o modelo **Eleven v4**. Documentação: *"With Eleven v4,
-  speech generated in the same language as the samples keeps the original accent. Speech generated in
-  a different language is fluent in the target language."* Em modelos anteriores (ex.: Multilingual
-  v2), o clone pode manter o sotaque da língua original e errar pronúncias.
-- Não existe seletor de sotaque para clones; para mudar o resultado, mudar as gravações.
-
-## Tipos de clone
-
-| | Instant Voice Clone | Professional Voice Clone |
+| Filtro | Marcar | Por quê |
 |---|---|---|
-| Áudio | 1–2 min (mais de 3 min pode piorar) | 30 min a 3 h |
-| Tempo | Imediato | 3–6 h de treinamento, após verificação de que a voz é do próprio usuário |
-| Plano | Conferir no plano do criador | Creator ou superior |
+| Language / Accent | English · **American** | Público dos EUA |
+| Category | **Narration** (testar também Educational) | Feitas para narração longa |
+| Gender | Male (vídeos longos) · Female (reserva para Shorts, depois) | Plano do canal |
+| Age | **Middle Aged** | Experiência; combina com o público de 30–49 |
+| Quality | **Studio Quality** | Gravação profissional, revisada pela equipe do ElevenLabs |
+| Notice period | **O mais longo possível (máximo 2 anos)** | Se o dono tirar a voz da biblioteca, é o tempo que o canal continua podendo usá-la; voz sem aviso pode sumir e quebrar a identidade do canal |
 
-Começar pelo **Instant**; se não capturar bem a voz, partir para o Professional.
+Documentação: *"Some voices have a notice period. This is how long you'll continue to have access to
+the voice if the voice owner decides to remove it from the Voice Library [...] The maximum notice
+period is 2 years."* · Studio Quality: *"recorded with proper equipment, mixed well, and tested to be
+free from most audio problems [...] reviewed by our QA testers."*
 
-## Gravação
+## O que buscar ao ouvir
 
-- Ambiente silencioso e sem eco (cortinas, tapete, roupas); evitar cozinha e banheiro.
-- Um só microfone do começo ao fim, a 15–20 cm da boca (evitar o do notebook).
-- Tom constante: **calmo, pausado, grave, de documentário** — a IA imita velocidade, entonação,
-  respiração e até ruídos.
-- Sem música, sem ruído de fundo, uma só pessoa. 1–2 minutos no total, de preferência numa gravação.
-  MP3 serve: importa a qualidade da captação, não o formato.
+- ✅ Calma, grave, confiável e acolhedora — alguém explicando algo importante, sem pressa
+- ✅ Dicção clara, ritmo natural (não soar lido)
+- ✅ Soa como alguém de 35–55 anos
+- ❌ Voz de trailer de cinema, dramática ou épica
+- ❌ Voz de vendedor animado ou de coach
+- ❌ Respiração forte, chiado, eco
+- ❌ Vozes que imitam pessoas famosas (risco de direitos)
 
-## Passo a passo
+## Método
 
-1. ElevenLabs → **Voices** → criar nova voz → **Instant Voice Clone** → enviar ou gravar → nome
-   (ex.: "ProfitMoments Narrator") → confirmar que a voz é sua.
-2. **Text to Speech** → escolher a voz → modelo **Eleven v4** → colar o gancho do vídeo 1 → gerar.
-3. Anotar as configurações (stability, similarity etc.) ou tirar print.
-4. Avaliar: soa como o criador? inglês natural? ritmo calmo? Se não, trocar a gravação.
+1. Com os filtros, separar **5 vozes**.
+2. Gerar **o mesmo gancho** com as 5 (~1.250 caracteres no total):
+   > This spring, AI was the number one reason American companies gave for cutting jobs. By October,
+   > it had almost disappeared from their announcements. The technology didn't change that fast. The
+   > story did. And your risk was never in the story.
+3. Ouvir **sem olhar os nomes**; escolher **2 finalistas**.
+4. Gerar com as 2 um trecho de ~30 s com carga emocional (parágrafo 12 do vídeo 1):
+   > If you work in an office, you may have felt both sides of this year. In the spring, the headlines
+   > said AI was coming for white-collar work, and it was hard not to wonder whether your experience
+   > still counted. By the fall, the headlines moved on, and it was easy to relax. Fear, then relief.
+   > Both reactions share one flaw. Neither one was based on your own work.
+5. Escolher uma e registrar abaixo (um print basta).
 
-Gancho de teste (vídeo 1):
-> This spring, AI was the number one reason American companies gave for cutting jobs. By October, it
-> had almost disappeared from their announcements. The technology didn't change that fast. The story
-> did. And your risk was never in the story.
+## Regras que acompanham a voz de IA (política §6b)
 
-## Texto para gravar (português, ~1 min 30 s)
+- O narrador **nunca diz "eu"**, não tem nome, não se apresenta como pessoa ou especialista.
+- **Manifesto:** nunca uma voz de IA falando "eu" como o criador. Caminhos: terceira pessoa narrada
+  pela voz do canal; a voz real do criador só nesse vídeo; ou um locutor humano.
+- Descrição: *"Narration is AI-generated; the story, research and judgment are human."*
 
-> Durante muitos anos, eu acreditei que estabilidade era a mesma coisa que segurança. Um salário no
-> fim do mês, um crachá, uma rotina previsível. Parecia o suficiente.
->
-> Mas existe uma pergunta que quase ninguém faz enquanto as coisas estão bem: quantas escolhas eu
-> realmente tenho? Não as escolhas que a empresa me oferece. As minhas.
->
-> Os números contam uma parte dessa história. As demissões anunciadas, as vagas abertas, os relatórios
-> que saem todo mês. Mas os números não dizem quanto tempo você teria para decidir, se tudo mudasse
-> amanhã. Isso, só você sabe.
->
-> Este canal não é sobre fugir da vida que você construiu. É sobre construir mais liberdade dentro
-> dela, e mais opções além dela. Com calma, com dados reais e com honestidade.
->
-> Porque o verdadeiro lucro não é só o que entra. É o que permanece. É o tempo que volta para você. É
-> poder escolher.
+## Registro da voz escolhida (preencher)
 
-## Fontes
+- Nome da voz: —
+- Voice ID: —
+- Notice period: —
+- Modelo usado: —
+- Configurações (stability, similarity, style, speed): —
+- Data da escolha: —
 
-- https://elevenlabs.io/docs/product-guides/voices/voice-cloning
-- https://elevenlabs.io/docs/product-guides/voices/voice-cloning/instant-voice-cloning
-- https://elevenlabs.io/docs/product-guides/voices/voice-cloning/professional-voice-cloning
+## Histórico
 
-## Registro (preencher após o teste)
-
-- Tipo de clone: —
-- Nome da voz / Voice ID: —
-- Modelo: —
-- Configurações: —
-- Resultado do teste do gancho: —
+- 2026-11-23: decidido clonar a voz do criador (guia anterior: gravar em português, gerar em inglês
+  com Eleven v4).
+- 2026-11-24: clone testado e não aprovado; decisão revisada para voz da Voice Library.

@@ -15,7 +15,7 @@ Every video starts from official data and a simple question: How do I build more
 
 No hype. No get-rich-quick. No financial advice — just clear thinking about work, money and freedom.
 
-ProfitMoments is created by a real person who lived the corporate rat race firsthand. Themes are researched from official sources and written from that experience. Narration uses an AI clone of the creator's own voice; the story, research and judgment are human.
+ProfitMoments is created by a real person who lived the corporate rat race firsthand. Themes are researched from official sources and written from that experience. Narration is AI-generated; the story, research and judgment are human.
 
 Strategic Finance & Modern Freedom.
 📩 hello@profitmoments.com

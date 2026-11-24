@@ -17,7 +17,7 @@ meses ou quando um provedor anunciar mudança.
 | 2 | **Imagens de cena** (silhuetas sem rosto, cenários, objetos) | Google Flow / Video Lab do Arsenal | Zero (imagem = 0 créditos, segundo o suporte) | Termos do Google: o Google não reivindica a propriedade do conteúdo gerado |
 | 3 | **Vídeo com IA** | Google Flow / Video Lab | 10 créditos por vídeo (conta grátis: 50 por dia, ~5 vídeos) | Mesmos termos. **Uso restrito** (seção 3) |
 | 4 | **Música** | **Biblioteca de Áudio do YouTube**, baixada para a biblioteca local do Editor | Zero | Pode ser monetizada. Preferir o filtro **"Attribution not required"**. Faixa Creative Commons: crédito obrigatório na descrição |
-| 5 | **Narração** | **Clone da voz do próprio criador no ElevenLabs** (plano pago do criador; decisão de 2026-11-23), gerado no ElevenLabs e importado no Editor | ElevenLabs: ~8.600 caracteres por vídeo · Supertonic: zero | ElevenLabs: plano pago permite uso comercial (plano gratuito não). Supertonic 3: licença permite vídeo monetizado e pede informar que a narração é IA (informado pelo suporte do Arsenal; não verificado na fonte) |
+| 5 | **Narração** | **Voz da Voice Library do ElevenLabs** escolhida pelo criador (decisão de 2026-11-24; plano pago = uso comercial), com notice period longo; gerada no ElevenLabs e importada no Editor | ElevenLabs: ~8.600 caracteres por vídeo · Supertonic: zero | ElevenLabs: plano pago permite uso comercial (plano gratuito não). Supertonic 3: licença permite vídeo monetizado e pede informar que a narração é IA (informado pelo suporte do Arsenal; não verificado na fonte) |
 | 6 | **Documentos de agências federais dos EUA** (BLS, Census, DOL, BEA, CBO etc.) | Prints das páginas oficiais | Zero | Obras do governo federal dos EUA são, em geral, de domínio público. **Não vale** para o NY Fed e outros bancos regionais do Federal Reserve, nem para empresas privadas (ex.: Challenger) — para esses, usar cartões de citação feitos por nós. Sempre com fonte e data |
 
 ## 2. Fontes NÃO permitidas (até nova decisão)
@@ -73,8 +73,8 @@ música que é o foco do vídeo. **Não precisa** declarar: conteúdo claramente
    **Attributes → "AI use" = Yes**.
 2. Se todas as imagens forem claramente estilizadas ou animadas → avaliar caso a caso no relatório do
    Motor 33; na dúvida, **Yes**.
-3. **Sempre**, em todo vídeo, uma linha na descrição: *"Narration uses an AI clone of the creator's own
-   voice; some visuals are AI-generated. Research, sources and script are original."* (Transparência; também atende ao pedido da licença da
+3. **Sempre**, em todo vídeo, uma linha na descrição: *"Narration and some visuals are AI-generated.
+   Research, sources and script are original."* (Transparência; também atende ao pedido da licença da
    Supertonic 3, se ela for usada.)
 
 O YouTube informa que declarar **não limita o alcance nem a monetização**; não declarar pode levar a
@@ -106,9 +106,9 @@ financial guidance, investment tips, or wealth management advice."*
 2. O conteúdo é **informação e reflexão** ("o que os dados mostram", "perguntas para você se fazer"),
    **nunca conselho financeiro prescritivo** (o que comprar, vender, investir, quanto poupar).
 3. **A pessoa real por trás do canal é declarada** na descrição de todo vídeo e na aba "Sobre".
-4. **Vídeos em primeira pessoa (Manifesto, histórias do criador) usam a voz do próprio criador** —
-   gravada ou clonada da própria voz (o YouTube não exige declaração para clone da própria voz).
-   Nunca uma voz de IA genérica falando "eu" como se fosse o criador.
+4. **Vídeos em primeira pessoa (Manifesto, histórias do criador) nunca usam uma voz de IA falando
+   "eu" como se fosse o criador.** Alternativas: terceira pessoa narrada pela voz do canal, a voz real
+   do criador (gravada) ou um locutor humano.
 5. Todo vídeo termina a descrição com: *"This video is for information and education. It is not
    financial or career advice."*
 

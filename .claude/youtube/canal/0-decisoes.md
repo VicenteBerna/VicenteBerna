@@ -248,3 +248,16 @@ O sonho do criador é um canal tão dinâmico quanto o @MagnatesMedia. Evoluçã
 como base, medindo a retenção real; (2) mais cortes no gancho e nas revelações, efeitos sonoros
 discretos e novos tipos de gráfico (linhas do tempo, mapas, ícones animados); (3) com o crescimento,
 plano pago do Google Flow para mais vídeo com IA. Sempre dinâmico, mas calmo e premium.
+
+## Voz do canal — REVISADA em 2026-11-24 (substitui a decisão do clone)
+
+- O criador testou o clone da própria voz e **não aprovou o resultado** (voz muito nasalada para um
+  canal sem rosto, em que a voz é o elemento central).
+- **Nova decisão:** escolher uma **voz da Voice Library do ElevenLabs** (inglês americano, narração,
+  meia-idade, Studio Quality, **notice period o mais longo possível — máximo 2 anos**). Método e
+  critérios em `8-guia-voz.md`. Voz masculina nos vídeos longos; feminina reserva para Shorts, depois.
+- **Persona de IA volta a ser o ponto de atenção:** o narrador é uma voz de IA — nunca diz "eu", não
+  tem nome, nunca se apresenta como especialista (política §6b).
+- **Manifesto:** não pode ser uma voz de IA falando "eu" como o criador. Caminhos em aberto: (a)
+  reescrever na terceira pessoa, narrado pela voz do canal; (b) a voz real do criador só nesse vídeo;
+  (c) um locutor humano.
